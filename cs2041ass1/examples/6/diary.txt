@@ -1,0 +1,180 @@
+Diary
+
+17th September:
+
+Approx 4 hours
+
+Activity: Begun work and brainstorming
+
+
+Created code to satisfy basic subset 1 - trouble getting the last one
+line by line processing in one loop seemingly ineffective
+
+18th September:
+
+Approx 4 hours
+
+Activity: Restarted. 
+
+New idea:
+Store pythoncode in an array
+Perform direct changes on lines on multiple different loops. Less time efficient but much easier to conceptualise and debug.
+New processed first tested using print before implemented via =~ s///;
+
+Implemented loop to: change all variables preceeded with an '=' to a scalar variable (append '$' in front)
+					 change all prints to appropriate format					 
+
+Milestones: Passes basic subset 1 testing.
+
+19th September
+
+Approx 5 hours
+
+Activity: Implemented second loop
+
+	# converts indented blocks of (for|if|while|foreach|else|elif) into perl syntax with (mostly) correct indentation
+
+Milestones: Passes basic subset 2 testing
+
+20th September
+
+Approx 4 hours
+
+Activity: Implementing rest of subset 3 and Debugging
+
+	# converts range() function
+	# converts sys functions
+
+Bugfix print to handle print with no arguments (just prints new line)
+BugFix range() to handle non numerical characters but looked ugly (append - 1 at end as string)
+BugFix closing of indentation blocks (covered more cases)
+	fixed block count
+	fixed edge cases
+BugFix do not touch characters within "'s when converting variables (fixes "\n" or "a")
+
+Milestones: Passes basic subset 3 testing
+
+Approx 2 hours
+
+Activity: Implementing to handle formatted printing and arrays
+
+
+21st September
+
+Approx 6 hour
+
+Activity: Reevaluation of design
+
+	#First loop: 
+
+	1. convert control flow syntax to allow streamlined conversion of control flow indentation blocks
+	2. convert print function
+	3. convert sys function
+	4. identify variables
+
+	#Second loop:
+
+	1. convert scalar variables to perl syntax
+	2. convert array variables to perl syntax
+
+	#Third loop:
+
+	1. convert syntax of built in functions
+	
+	#Fourth loop:
+
+	2. convert block indentation conventions
+
+	#Fifth loop:
+
+	3. Prints perl code
+
+Activity: Coding / Fixing
+
+	# Streamlined converting 'for'
+	# converts append function
+
+Milestones
+
+	Passes basic subset 4 testing
+
+22 September:
+
+Activity: Reevaluation of meeting objectives
+
+	Require to write own test scripts.
+
+28 September:
+
+Activity: Thorough Testing of subsets 0-4
+
+	Picked up python code from tutorialspoint.com
+
+29 September:
+
+Activity: Debugging
+
+	BugFix Fixed comments not at the start of the line interfering with ; appending.
+	BugFix Rewrote loop for converting variables and arrays
+		Only converts variables not within double quote PAIRS not only double quotes
+	Added range function for one argument
+
+Milestones: Passes most testing of subsets 1-4
+ 
+30 September:
+
+Activity: Coding
+	Added transformation of open();
+	Added transformation of file.input();
+	Added converting matches
+	Added converting hash access
+	BugFix Stopped variable conversion between single quote pairs
+	Added functionality to loop conversions control flow variable no longer has to be at the start of a line
+
+1 September:
+
+Activity: Coding
+	Added conversion of split function
+	BugFix Initialising hash tables no longer creates blank entries
+	Added conversion of sorting hashes
+	Bugfix Fixed EOF bracket closing
+	New Used Text::Tabs to fix python mixed tabs and spaces problem
+	Added checking if in hashtable
+	New Used Text::Balanced to fix ()'s within functions
+
+Milestone:
+
+	Passes all basic testing examples from subset 1-5;
+
+2 September:
+
+Activity: Testing and Coding
+	Added conversion of sys.argv related items
+	Added printing lists
+	Added list.pop();
+
+6 September:
+
+Activity: Finishing subset 5
+	
+	Fixed re. functions
+	Cleaning up code
+	Gathering demo scripts
+
+7 September:
+
+Activity: Debugging and cleaning
+
+	Rewrote block expansion loop, now works with arbitrary (but legal) python indentation.
+	Added support for escaped quotes in strings
+	Added support for identifying which scalars are strings
+	Added loop for String handling
+	Cleaned up code
+	Submitted
+
+
+
+
+
+
+

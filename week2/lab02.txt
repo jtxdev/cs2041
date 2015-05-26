@@ -1,0 +1,270 @@
+== Question 1 == 
+a) What word is on line 2000 
+
+Answer: Algonquian
+
+
+b) the first word in the dictionary file ending with 's
+
+Answer: A's
+
+
+c) the last word in the dictionary that contains the substring ooz ?
+
+Answer: zoozoos
+
+d) What are the first the last and the longest? 
+
+Pipeline: grep ^[^aeiou]*a[^eiou]*e[^aiou]*i[^aeou]*o[^aeiu]*u[^aeio]*$ mywords
+Answer: abstemious 
+		lateritious
+		adventitiously
+
+e) How many are there?
+
+Pipeline:grep ^[^aeiou]*a[^eiou]*e[^aiou]*i[^aeou]*o[^aeiu]*u[^aeio]*$ mywords | wc -w
+Answer:	12
+
+
+f) Modified regex (optional)?
+
+Pipeline: ^[^aeiou]*a[^aeiou]*e[^aeiou]*i[^aeiou]*o[^aeiou]*u[^aeiou]*$ mywords
+Answer: abstemious
+		facetiously
+		abstemiously
+
+== Question 2 == 
+a) How many total words does the file contain?  
+
+Command: wc -w < mywords
+Answer: 390588
+
+b) How many total words, excluding those ending in "'s", are there in the dictionary?
+
+Pipeline: grep -v "'s" mywords | wc -w
+Answer: 299845
+
+c) How could you use cat -n and grep to find out which word is on line 100000? 
+
+Pipeline: cat -n mywords | grep 100000
+Answer: adviser
+
+d) How could you use cat -n and grep to print the 700th line, and no other lines?
+
+Pipeline: cat -n mywords | grep -w 700
+Answer: Adirondack
+
+
+e) How do you use head and tail to find out what word is on line 200000 
+
+Pipeline: head -200000 mywords | tail -1 
+Answer: geodynamics's
+
+== Question 3 == 
+a) which words contain the characters "lmn" consecutively?
+
+Pipeline: grep lmn mywords
+Answer: Selmner
+		Selmner's
+		almner
+		almners
+		calmness
+		calmness's
+		calmnesses
+
+b) how many words contain "zz", but do not end in apostrophe-s ('s)?
+
+Pipeline: grep zz mywords | grep -v "'s" | wc -w
+Answer: 628
+
+c) how many words contain four consecutive vowels?
+
+Pipeline: grep -i [aeiou][aeiou][aeiou][aeiou] mywords | wc -w
+Answer: 207
+
+d) how many words have a 9-letter dictionary word embedded inside them.
+
+Pipeline: grep -w '^[A-Za-z][A-Za-z][A-Za-z][A-Za-z][A-Za-z][A-Za-z][A-Za-z][A-Za-z][A-Za-z]$' mywords > words9
+		 fgrep 		
+
+Answer:
+
+
+== Question 4 == 
+
+a) Write a grep command that will print all the lines in the file where the electorate begins with W.
+
+Pipeline: grep 'for W' parliament.txt
+Answer: The Hon Tony Abbott, Member for Warringah  
+		Mr Scott Buchholz, Member for Wright  
+		The Hon Tony Burke, Member for Watson
+		Mr Nick Champion, Member for Wakefield  
+		Mr Laurie Ferguson, Member for Werriwa  
+		Mr Dan Tehan, Member for Wannon  
+		Mr Kelvin Thomson, Member for Wills  
+		The Hon Warren Truss, Member for Wide Bay
+		The Hon Malcolm Turnbull, Member for Wentworth
+
+b) Write a grep command that will list all the lines in the file where the MP's first name is Andrew. 
+
+Pipeline: grep 'Andrew ' parliament.txt
+Answer: Mr Andrew Laming, Member for Bowman  
+		Dr Andrew Leigh, Member for Fraser  
+		The Hon Andrew Robb, Member for Goldstein  
+		Dr Andrew Southcott, Member for Boothby  
+		Mr Andrew Wilkie, Member for Denison  
+
+c) Write a grep command that will print all the lines in the file with three consecutive vowels.
+
+Pipeline: grep '[aeiou][aeiou][aeiou]' parliament.txt
+Answer: Mrs Louise Markus, Member for Macquarie
+
+d) Write a grep command that will print all the lines in the file where the MP's surname (last name) ends in the letter 'y'.
+
+Pipeline: grep 'y,' parliament.txt
+Answer: The Hon David Bradbury, Member for Lindsay  
+		Mr Michael Danby, Member for Melbourne Ports
+		The Hon Gary Gray, Member for Brand
+		The Hon Joe Hockey, Member for North Sydney  
+		Mr Craig Kelly, Member for Hughes  
+		The Hon Dr Mike Kelly, Member for Eden-Monaro
+		The Hon Sussan Ley, Member for Farrer  
+		The Hon John Murphy, Member for Reid
+		Mr Rowan Ramsey, Member for Grey  
+		Mr Wyatt Roy, Member for Longman  
+		The Hon Alexander Somlyay, Member for Fairfax  
+
+e) Write a grep command that will print all the lines in the file where the electorate ends in the letter 'y'.
+
+Pipeline: grep 'y *$' parliament.txt
+Answer: The Hon Bruce Billson, Member for Dunkley  
+		The Hon David Bradbury, Member for Lindsay  
+		The Hon Joe Hockey, Member for North Sydney  
+		Mr Ed Husic, Member for Chifley  
+		Dr Dennis Jensen, Member for Tangney  
+		Mr Stephen Jones, Member for Throsby  
+		The Hon Bob Katter, Member for Kennedy  
+		The Hon Tanya Plibersek, Member for Sydney  
+		Mr Rowan Ramsey, Member for Grey  
+		Mr Bernie Ripoll, Member for Oxley  
+		Ms Michelle Rowland, Member for Greenway
+		The Hon Tony Smith, Member for Casey  
+		Dr Andrew Southcott, Member for Boothby  
+		The Hon Dr Sharman Stone, Member for Murray  
+		The Hon Wayne Swan, Member for Lilley
+		The Hon Warren Truss, Member for Wide Bay
+
+f) Write a grep command to print all the lines in the file where there is a word in the MP's name or the electorate name ending in ng.
+
+Pipeline: egrep 'ng,|ng *$' parliament.txt
+Answer: Mr John Alexander, Member for Bennelong  
+		Mr Josh Frydenberg, Member for Kooyong  
+		Mr Michael Keenan, Member for Stirling  
+		The Hon Catherine King, Member for Ballarat  
+		Mr Andrew Laming, Member for Bowman  
+		Mr Don Randall, Member for Canning
+		The Hon Bill Shorten, Member for Maribyrnong
+
+g) Write a grep command that will print all the lines in the file where the MP's surname (last name) both begins and ends with a vowel. 
+
+Pipeline: grep ' [AEIOU][^ ]*[aeiou],' parliament.txt
+Answer: The Hon Anthony Albanese, Member for Grayndler
+
+h) Write a grep command that will print all the lines in the file where the electorate name contains multiple words (separated by spaces or hyphens). 
+
+Pipeline: grep 'for [^ ]*[ -][^ ]' parliament.txt
+Answer: The Hon Mark Butler, Member for Port Adelaide  
+		Mr Michael Danby, Member for Melbourne Ports
+		The Hon Peter Garrett, Member for Kingsford Smith
+		The Hon Joe Hockey, Member for North Sydney  
+		The Hon Dr Mike Kelly, Member for Eden-Monaro
+		Ms Laura Smyth, Member for La Trobe
+		The Hon Warren Truss, Member for Wide Bay
+		Mr Tony Windsor, Member for New England
+
+== Question 5 == 
+
+Write a shell pipline which prints the 2nd most common MP first name. 
+
+Pipeline: cut -f1 -d',' parliament.txt | rev | cut -f2 -d' ' | rev | sort | uniq -c | sort -n | tail -2 | head -1 |  sed 's/^ *[0-9]* //'
+Answer: Andrew
+
+== Question 6 ==
+
+a) How many total classes are there?
+
+Pipeline: wc -l < classes.txt
+Answer: 316
+
+b) How many different courses have classes?
+
+Pipeline: cut -f1 classes.txt | sort | uniq | wc -l
+Answer: 42
+
+
+c) Write a pipeline which will print the course with the most classes?
+
+Pipeline: cut -f1 classes.txt | sort | uniq -c | sort -n | tail -1
+Answer: 35 ENGG1811
+
+d) Give a command line that prints the most frequently-used tut room? 
+
+Pipeline: cut -f5 classes.txt | sort | uniq -c | sort -n | tail -1
+Answer: 30 OrganPhysU
+
+e) Give a command line that prints the most popular time-of-day for tutes? 
+
+Pipeline: grep TUT classes.txt | cut -f4 | sort | cut -f2- -d' ' | sort -n | uniq -c | sort -n | tail -1
+
+Answer: 15 14-15
+
+f) Which COMP courses run the most simultaneous classes of the same type? 
+
+Pipeline: cut -f1,3,4 classes.txt | sort | uniq -c | sort -n | tail -2
+Answer:  5 COMP9414	LAB	Wed 16-18
+  		 5 COMP9814	LAB	Wed 16-18
+
+g) Write a pipeline that prints list of the course names (only) of COMP courses that run simultaneous classes of the same type?
+
+Pipeline: cut -f1,3,4 classes.txt | sort | uniq -c | sort -n | grep '[2-9] ' | cut -f1 | uniq | sed 's/^ *[0-9]* //'
+Answer: COMP0011
+		COMP1911
+		COMP1917
+		COMP1927
+		COMP2911
+		COMP3141
+		COMP3411
+		COMP4511
+		COMP9318
+		COMP9321
+		COMP9332
+		COMP9333
+		ENGG1811
+		GENE8000
+		COMP1911
+		COMP1917
+		ENGG1811
+		COMP9318
+		COMP9332
+		COMP9414
+		COMP9814
+
+== Question 7 (Challenge) ==
+
+a) Match any line containing at least one A and at least one B.
+
+Regexp: egrep "A" <file1 | egrep "B"
+
+b) Match any line any line containing only the characters A and B such that all pairs of adjacent As occur before any pairs of adjacent Bs
+
+Regexp:
+
+c) Match any line containing  only the characters A and B such that all number of A's is divisible by 4.
+
+Regexp:
+
+d) Match any line containing n As followed by n Bs and no other characters..
+
+Regexp/script:
+
+
