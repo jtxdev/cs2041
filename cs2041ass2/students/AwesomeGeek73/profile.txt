@@ -1,0 +1,56 @@
+name:
+	Antonio Banderas
+favourite_books:
+	Robert Langdon
+	Men Are from Mars, Women Are from Venus
+	The Power of Positive Thinking
+	The Sword of Truth
+	Night
+	The Ginger Man
+	The Eagle Has Landed
+username:
+	AwesomeGeek73
+password:
+	ou812
+weight:
+	62kg
+courses:
+	2014 S1 CHEM1031
+	2014 S1 ENGG1000
+	2014 S1 PHYS1121
+	2014 S2 BIOM1010
+	2014 S2 COMP1917
+	2014 S2 MATH1231
+	2014 S2 MMAN1300
+email:
+	A.Banderas@ugrad.unsw.edu.au
+birthdate:
+	1960/08/10
+favourite_movies:
+	Ice Age: The Meltdown
+	Tron Legacy
+	Indiana Jones and the Kingdom of the Crystal Skull
+	The Twilight Saga: Breaking Dawn Part 1
+	Spider-Man 3
+	Harry Potter and the Half-Blood Prince
+	Finding Nemo
+	Titanic
+	Pirates of the Caribbean: Dead Man's Chest
+	Fast & Furious 6
+hair_colour:
+	brown
+favourite_bands:
+	Max Frost
+	RUFUS
+	Chet Faker
+	Something for Kate
+	British India
+	Birds of Tokyo
+	The National
+	Arcade Fire
+gender:
+	male
+degree:
+	Science/Computer Science
+height:
+	1.67m

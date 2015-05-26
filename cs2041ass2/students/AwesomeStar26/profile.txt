@@ -1,0 +1,69 @@
+username:
+	AwesomeStar26
+courses:
+	2013 S1 COMP9020
+	2013 S1 COMP9021
+	2013 S1 COMP9311
+	2013 S1 COMP9414
+	2013 S2 COMP4418
+	2013 S2 COMP9024
+	2013 S2 GSOE9820
+	2014 S1 COMP9318
+	2014 S1 COMP9321
+	2014 S1 COMP9417
+	2014 S2 COMP6771
+	2014 S2 COMP9322
+	2014 S2 COMP9431
+weight:
+	57kg
+favourite_bands:
+	Josh Pyke
+	Bloc Party
+	Lana Del Rey
+	Rudimental
+hair_colour:
+	blonde
+password:
+	fender
+name:
+	Demi Moore
+gender:
+	female
+favourite_hobbies:
+	Taxidermy
+	Mineral collecting
+	Net Ball
+	Kayaking
+	Yoga
+	Video game collecting
+	RC cars
+	Hunting
+	Perl programming
+degree:
+	Information Technology
+email:
+	D.Moore@ugrad.unsw.edu.au
+height:
+	1.77m
+favourite_movies:
+	The Hunger Games
+	Shrek Forever After
+	Monsters University
+	The Dark Knight Rises
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Lucy
+	Ice Age: Dawn of the Dinosaurs
+	Ice Age: Continental Drift
+	Madagascar: Escape 2 Africa
+birthdate:
+	1962/11/11
+favourite_TV_shows:
+	Seinfeld
+	Wentworth
+	Falling Skies
+	South Park
+	Family Guy
+	Secrets & Lies
+	Dance Academy
+	House Husbands
+	Hemlock Grove

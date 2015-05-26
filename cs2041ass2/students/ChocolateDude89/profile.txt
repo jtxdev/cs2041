@@ -1,0 +1,40 @@
+favourite_books:
+	The Lord of the Rings
+password:
+	cool
+degree:
+	Electrical Engineering
+favourite_hobbies:
+	Sleeping
+favourite_bands:
+	Goldroom
+	Flight Facilities
+	Chvrches
+	Flume & Chet Faker
+	Fatboy Slim & Riva Starr
+	British India
+	Cloud Control
+gender:
+	male
+courses:
+	2014 S1 COMP9414
+	2014 S2 COMP9024
+	2014 S2 COMP9032
+	2014 S2 COMP9041
+	2014 S2 COMP9331
+favourite_TV_shows:
+	The Code
+	Camp
+	A Country Practice
+birthdate:
+	1981/08/08
+username:
+	ChocolateDude89
+hair_colour:
+	black
+name:
+	Roger Federer
+email:
+	R.Federer@ugrad.unsw.edu.au
+height:
+	1.77m

@@ -1,0 +1,72 @@
+courses:
+	2012 S1 COMP1911
+	2012 S1 ENGG1000
+	2012 S1 MATH1141
+	2012 S1 PHYS1121
+	2012 S2 BIOM1010
+	2012 S2 COMP1921
+	2012 S2 MATH1231
+	2012 S2 SENG1031
+	2013 X1 COMP1927
+	2013 S1 COMP2111
+	2013 S1 COMP2911
+	2013 S1 MATH1081
+	2013 S1 SENG2011
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 MATH2859
+	2013 S2 SENG2021
+	2014 S1 ARTS1630
+	2014 S1 COMP2121
+	2014 S1 COMP3331
+	2014 S1 SENG3011
+	2014 S2 COMP4920
+	2014 S2 COMP6771
+	2014 S2 COMP9321
+	2014 S2 MATH2400
+	2014 S2 MATH2859
+favourite_bands:
+	John Newman
+	Flume & Chet Faker
+email:
+	J.M.Marquez@ugrad.unsw.edu.au
+birthdate:
+	07/09/1985
+favourite_TV_shows:
+	Game of Thrones
+	The Block Sky High
+	Rush
+	Rake
+name:
+	Juan Manuel Marquez
+favourite_books:
+	Onihei Hankach
+	The Great Gatsby
+password:
+	orange
+degree:
+	Computer Science
+height:
+	1.81m
+favourite_hobbies:
+	Playing Music
+	Sculling
+	Yo-yoing
+	Sailing
+favourite_movies:
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Hancock
+	Star Wars: Episode III - Revenge of the Sith
+	Finding Nemo
+	Forrest Gump
+	Up
+	The Lord of the Rings: The Return of the King
+	The Da Vinci Code
+weight:
+	69kg
+hair_colour:
+	brown
+gender:
+	male
+username:
+	CreativeMan84

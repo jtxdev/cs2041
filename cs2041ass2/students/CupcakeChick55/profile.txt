@@ -1,0 +1,61 @@
+hair_colour:
+	blonde
+favourite_hobbies:
+	Playing Music
+	Photography
+	Net Ball
+	Eating Out
+	Renting Movies
+	Martial arts
+	Antiquities
+	Computer Games
+	Puzzles
+degree:
+	Mechanical & Manufacturing Eng
+height:
+	1.60m
+courses:
+	2007 S2 COMP4416
+	2007 S2 COMP9431
+	2007 S2 COMP9444
+	2007 S2 COMP9517
+	2008 S1 COMP4411
+	2008 S1 COMP9018
+	2008 S1 COMP9814
+	2011 S2 COMP4418
+name:
+	Julie Gerberding
+username:
+	CupcakeChick55
+favourite_bands:
+	MS MR
+	Major Lazer
+	Lorde
+	Chet Faker
+	The Kite String Tangle
+	The Wombats
+email:
+	J.Gerberding@ugrad.unsw.edu.au
+password:
+	peanut
+gender:
+	female
+birthdate:
+	1955/08/22
+weight:
+	60kg
+favourite_TV_shows:
+	Pretty Little Liars
+	Hamish & Andy's Gap Year Asia
+	The Doctor Blake Mysteries
+	The Lost World
+favourite_books:
+	The Lovely Bones
+	Watership Down
+	Virgin Soil Upturned
+	Dirk Pitt
+	Perfume
+	The Hitchhiker's Guide to the Galaxy
+favourite_movies:
+	Ice Age: Dawn of the Dinosaurs
+	Shrek Forever After

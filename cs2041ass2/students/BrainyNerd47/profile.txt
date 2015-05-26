@@ -1,0 +1,39 @@
+email:
+	M.Doherty@ugrad.unsw.edu.au
+hair_colour:
+	blonde
+weight:
+	84kg
+favourite_bands:
+	Birds of Tokyo
+	Rudimental
+password:
+	hannah
+favourite_TV_shows:
+	Utopia
+	Secrets & Lies
+	True Detective
+	Hamish & Andy's Gap Year Asia
+	House Rules
+	The Secret Life of Us
+	How I Met Your Mother
+gender:
+	male
+name:
+	Matt Doherty
+username:
+	BrainyNerd47
+favourite_movies:
+	Star Wars: Episode I - The Phantom Menace
+	Men in Black
+birthdate:
+	14/04/1987
+height:
+	1.75m
+favourite_books:
+	A Message to Garcia
+	Guess How Much I Love You
+	Heidi's Years of Learning and Travel
+	The Diary of a Young Girl, The Diary of Anne Frank
+favourite_hobbies:
+	Scuba Diving

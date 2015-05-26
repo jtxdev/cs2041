@@ -1,0 +1,53 @@
+name:
+	Laura Bush
+password:
+	leather
+favourite_TV_shows:
+	American Dad
+	Lightning Point
+height:
+	1.64m
+gender:
+	female
+courses:
+	2014 S1 ACCT1501
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S2 COMP1927
+	2014 S2 MATH1081
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+birthdate:
+	1946/11/04
+favourite_hobbies:
+	Mineral collecting
+	Squash
+favourite_movies:
+	Ice Age: Dawn of the Dinosaurs
+	The Lord of the Rings: The Fellowship of the Ring
+	Transformers: Age of Extinction
+	Independence Day
+weight:
+	60kg
+favourite_bands:
+	Fatboy Slim & Riva Starr
+	Karnivool
+	Empire of the Sun
+	Rudimental
+	Violent Soho
+	Birds of Tokyo
+	Daft Punk
+	Touch Sensitive
+	San Cisco
+	Haim
+favourite_books:
+	Heidi's Years of Learning and Travel
+username:
+	CreativeLover63
+email:
+	L.Bush@ugrad.unsw.edu.au
+degree:
+	Computer Science
+hair_colour:
+	black

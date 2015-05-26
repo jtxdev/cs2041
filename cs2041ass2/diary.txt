@@ -1,0 +1,190 @@
+
+
+Literally spent every waking minute on this for the past 4 days so..
+
+25/10/14 to 27/10/14 approx 10 hours
+
+    Settig up system and brainstorming best way to reuse code when writing perl subs.
+    Crash course in bootstrap.
+    Finished level 1.
+
+31/10/14 to 3/10/14 11:30pm approx 35 hours
+
+    Madly rushing level 3.
+    Finished level 3.
+
+    Started Level 2.
+    Finished Level2.
+
+    First Submission (incase I run out of time).
+    
+
+git log:
+
+commit 3a2e44302a8b8ae0484730880ccbc523235f03d6
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Nov 3 23:26:01 2014 +1100
+
+    added height and hair matchmaking
+
+commit 99135915ef74d4236794dcbd47a2fa67c594fb65
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Nov 3 23:01:16 2014 +1100
+
+    added weight matchmaking
+
+commit 585e860d3aa526be6daf446cb08367b4870846aa
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Nov 3 22:29:47 2014 +1100
+
+    added gender matchmaking
+
+commit da29e1e53c97e16bc46feedfdc88476886afd1b5
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Nov 3 20:43:35 2014 +1100
+
+    added ability to change and delete display picture
+
+commit 0abd822f8641a9e437a592bb95517de6ad5ce4b5
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Nov 3 18:29:50 2014 +1100
+
+    added account deletion, made UI changes, added messaging
+
+commit 53a7151e31dfc28bc340837a83d9c78f6eb19244
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Nov 3 03:11:29 2014 +1100
+
+    fixed typo in signup, made lostpass pretty
+
+commit 7cd98661e90df8cb8fd3be6e2259ad1cd4e33ccd
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Nov 3 02:55:07 2014 +1100
+
+    Made login, signup and verify pretty, minor changes to love2041 layout
+
+commit 7d96339a4386e757e26220dfc8e6c028b14d8674
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sun Nov 2 18:33:36 2014 +1100
+
+    simple validation required when changing account settings
+
+commit a8b3c01ba2ad7d6d1257d1e4661ad1362f081e91
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sun Nov 2 15:49:44 2014 +1100
+
+    added success screen to changing profile/acct info and potential to redirect if errors
+
+commit 8643d0bbe249ec95bf53ca414f28039c75350075
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sun Nov 2 14:08:45 2014 +1100
+
+    added basic validation to signup form
+
+commit 031e9cbf652444e997682605aa510a1f7f774114
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sun Nov 2 01:56:59 2014 +1100
+
+    created acct info page, user can edit acct info, no error checking yet
+
+commit 1ff91a45519394f1e1dd36539d49610c62c325d6
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sat Nov 1 22:35:05 2014 +1100
+
+    fixed browse and search screens (i think)
+
+commit 7b938aadf601edba706fc4c71bc77234225f6ef8
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sat Nov 1 22:15:43 2014 +1100
+
+    made aesthetic changes, can only edit profile info, acct info coming (requires more checks so seperated)
+
+commit 3d41bdddc5d9193e4409be8717853dcb17d7ad70
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sat Nov 1 16:50:31 2014 +1100
+
+    user can edit their profile imformation / no error checking yet
+
+commit ad8fbad42804972ae24e870da245f6880757f31c
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Fri Oct 31 23:42:18 2014 +1100
+
+    created myprofile page and edit page, edit not functional yet
+
+commit 3a97e48c97e9e6bb134bf50b0989023e53acafb6
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Fri Oct 31 18:49:08 2014 +1100
+
+    basic account creation complete
+
+commit 83ad06e966812ec8adac11cd0b753b8301efd191
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Fri Oct 31 18:23:16 2014 +1100
+
+    added verify.cgi (woops)
+
+commit f30cfcd2f64949cd1119adcb8dc71497cf1d0450
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Fri Oct 31 18:22:27 2014 +1100
+
+    verification code check works, added tmp directory to store unverified accounts
+
+commit 8d798abf4d9626cc497e0c393d68dfd2354e1729
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Fri Oct 31 16:48:13 2014 +1100
+
+    added verification page
+
+commit d62b22bd596fbfe712166e9cf7c35b3b11140414
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Fri Oct 31 16:16:00 2014 +1100
+
+    added signup page, email working, generates md5_hex verification code
+
+commit 5943185bc0d021755a3d9fddf931a6486d969ac3
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Oct 27 15:34:50 2014 +1100
+
+    now searches for usernames
+
+commit b58da49439f6115751abf4e70b57db09b78d60f1
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Oct 27 07:26:55 2014 +1100
+
+    working login/logout system, cookies are sessIDs
+
+commit 6e873a169dd8841d3850a529021dd926323e6e5b
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Oct 27 05:25:21 2014 +1100
+
+    added logn script
+
+commit 8ba78edf67b9f99ba2ad7f1d7715843d8acb8502
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Mon Oct 27 04:13:43 2014 +1100
+
+    moved to bootstrap.css style, added paginate, started work on login
+
+commit 94f8be0d4ee0db9aa7386b63db3bd0cafd3ed00b
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sat Oct 25 10:35:27 2014 +1100
+
+    browse displays 10 at a time, can go back and forth, profile pictures link to profile
+
+commit 182b2fe0f296332c31ec8b375b5d4858eac745ce
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sat Oct 25 05:18:32 2014 +1100
+
+    get_field() created to replace all other functions related to retrieving a profile field, fixed load_allprofiles()
+
+commit 1d1cac0d2286eed117bc90cfca1ac61e9d604ef7
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sat Oct 25 05:05:20 2014 +1100
+
+    parses profile.txt and stores in hash, consistent profile info displayed
+
+commit 6ac7040c9adfbd3fcfbb15f6ecc2f16f3fbf7210
+Author: Chek-Sang Jason Thai <cjth726@cse.unsw.EDU.AU>
+Date:   Sat Oct 25 02:34:49 2014 +1100
+
+    starting point

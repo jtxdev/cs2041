@@ -1,0 +1,60 @@
+degree:
+	Computer Science
+favourite_TV_shows:
+	How I Met Your Mother
+	Wentworth
+	Seinfeld
+	NCIS
+	Underbelly Squizzy launch
+weight:
+	66kg
+courses:
+	2012 S2 COMP4418
+	2012 S2 GSOE9820
+	2013 S1 COMP9417
+	2013 S1 COMP9441
+	2013 S2 COMP9024
+	2013 S2 COMP9318
+	2013 S2 GSOE9820
+	2014 S1 COMP9318
+	2014 S1 COMP9321
+	2014 S2 COMP9321
+favourite_books:
+	Sweet Valley High
+	The Adventures of Huckleberry Finn
+	How the Steel Was Tempered
+	War and Peace
+	The Women's Room
+	Winnie-the-Pooh
+	The Ginger Man
+	The Joy of Sex
+	Totto-chan, the Little Girl at the Window
+birthdate:
+	1946/11/06
+email:
+	S.Field@ugrad.unsw.edu.au
+password:
+	shit
+username:
+	CreativeGal98
+favourite_hobbies:
+	Machining
+	Snowboarding
+	Foreign language learning
+	Listening to Music
+	Antiquities
+	Amateur radio
+	Auto racing
+	Electronics
+	Drawing
+hair_colour:
+	brown
+height:
+	1.59m
+name:
+	Sally Field
+favourite_movies:
+	Spider-Man
+	Star Wars: Episode III - Revenge of the Sith
+gender:
+	female

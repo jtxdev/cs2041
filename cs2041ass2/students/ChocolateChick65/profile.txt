@@ -1,0 +1,90 @@
+gender:
+	female
+favourite_books:
+	Guess How Much I Love You
+	The Ginger Man
+	Harry Potter and the Philosopher's Stone
+	Shogun
+	Robert Langdon
+	Uncle Styopa
+	Harry Potter and the Order of the Phoenix
+	The Little Prince
+	What to Expect When You're Expecting
+favourite_movies:
+	Spider-Man 2
+	Captain America: The First Avenger
+degree:
+	Information Technology
+favourite_bands:
+	Violent Soho
+	James Blake
+	The Preatures
+	Childish Gambino
+	Matt Corby
+hair_colour:
+	brown
+favourite_hobbies:
+	Color Guard
+	Deltiology
+	Polo
+	Coloring
+weight:
+	65kg
+birthdate:
+	1962/02/11
+password:
+	oliver
+username:
+	ChocolateChick65
+courses:
+	2007 S1 COMP1911
+	2007 S1 ENGG1000
+	2007 S1 PHYS1131
+	2007 S2 COMP1921
+	2007 S2 ELEC1111
+	2007 S2 MATH1231
+	2007 S2 PHYS1231
+	2008 S1 ACCT1501
+	2008 S1 ECON1101
+	2008 S1 ELEC2141
+	2008 S2 ACCT1511
+	2008 S2 ECON1102
+	2008 S2 ELEC2134
+	2008 S2 MATH2099
+	2009 S1 ACCT1511
+	2009 S1 ECON2101
+	2009 S1 ELEC2133
+	2009 S2 ECON2103
+	2009 S2 ECON2105
+	2009 S2 ELEC2133
+	2010 S1 ECON2112
+	2010 S1 ELEC3104
+	2010 S1 ELEC3115
+	2010 S2 ECON2102
+	2010 S2 ECON2322
+	2011 S1 ECON2112
+	2011 S1 ECON2206
+	2011 S1 ELEC3104
+	2011 S2 ECON3106
+	2011 S2 ELEC2142
+	2011 S2 ELEC3114
+	2012 X1 ELEC2133
+	2012 S1 ECON2112
+	2012 S1 ECON3121
+	2012 S1 ELEC3106
+	2012 S1 TELE3118
+	2013 S1 COMP2911
+	2013 S1 COMP3211
+	2013 S1 FINS1612
+	2013 S1 FINS1613
+	2013 S2 COMP2041
+	2013 S2 COMP3331
+	2013 S2 ECON2322
+	2013 S2 FINS2624
+	2014 S1 COMP3331
+name:
+	Sheryl Crow
+height:
+	1.60m
+email:
+	S.Crow@ugrad.unsw.edu.au

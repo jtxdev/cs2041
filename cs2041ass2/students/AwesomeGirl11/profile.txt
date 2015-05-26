@@ -1,0 +1,53 @@
+degree:
+	Computer Science/Digital Media
+courses:
+	2013 S1 COMP1911
+	2013 S1 ENGG1000
+	2013 S1 MATH1131
+	2013 S1 PHYS1131
+	2013 S2 COMP1921
+	2013 S2 ELEC1111
+	2013 S2 MATH1231
+	2013 S2 PHYS1231
+	2014 S1 ECON1101
+	2014 S1 ELEC2134
+	2014 S1 ELEC2141
+	2014 S1 MATH2069
+	2014 S2 ACCT1501
+	2014 S2 COMP1921
+	2014 S2 ELEC2133
+favourite_hobbies:
+	Footbag
+hair_colour:
+	black
+password:
+	trustno1
+birthdate:
+	1964/09/30
+email:
+	M.Bellucci@ugrad.unsw.edu.au
+favourite_movies:
+	Star Wars: Episode III - Revenge of the Sith
+	Despicable Me
+	Ice Age: The Meltdown
+height:
+	1.64m
+name:
+	Monica Bellucci
+gender:
+	female
+favourite_books:
+	Magic Tree House series
+	And Then There Were None
+	The Exorcist
+	Kaiketsu Zorori
+	The Thorn Birds
+	In His Steps: What Would Jesus Do?
+	The Little Prince
+	Harry Potter and the Half-Blood Prince
+	Harry Potter and the Philosopher's Stone
+	Kane and Abel
+weight:
+	56kg
+username:
+	AwesomeGirl11

@@ -1,0 +1,49 @@
+favourite_TV_shows:
+	True Blood
+	Game of Thrones
+	MASH
+	Heartbreak High
+degree:
+	Information Technology
+password:
+	monica
+favourite_hobbies:
+	Metal detecting
+	Sudoku
+	Baton twirling
+	Shell scripting
+	Netball
+email:
+	J.Aniston@ugrad.unsw.edu.au
+favourite_movies:
+	Harry Potter and the Chamber of Secrets
+	Ratatouille
+	Dawn of the Planet of the Apes
+	Neighbors
+gender:
+	female
+name:
+	Jennifer Aniston
+height:
+	1.58m
+favourite_bands:
+	RUFUS
+	The Kite String Tangle
+	Sticky Fingers
+	John Newman
+	Kingswood
+	Touch Sensitive
+	James Blake
+	Arctic Monkeys
+	Chvrches
+hair_colour:
+	red
+username:
+	ChocolateLover92
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+birthdate:
+	1969/02/11

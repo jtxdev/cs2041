@@ -1,0 +1,76 @@
+name:
+	Daniel Radcliffe
+gender:
+	male
+favourite_books:
+	Things Fall Apart
+	OSS 117
+courses:
+	2010 S1 ECON1101
+	2010 S1 FINS1613
+	2010 S1 MATH1141
+	2010 S1 SCIF1021
+	2010 S2 ARTS1631
+	2010 S2 COMP1911
+	2010 S2 MATH1081
+	2010 S2 MATH1231
+	2011 S1 MATH2011
+	2011 S1 MATH2301
+	2011 S1 MATH2901
+	2011 S2 MATH2120
+	2011 S2 MATH2281
+	2011 S2 MATH2501
+	2011 S2 MATH2520
+	2012 X1 COMP1927
+	2012 S1 COMP1927
+	2012 S1 COMP2041
+	2012 S1 MATH3101
+	2013 S1 COMP2911
+	2013 S1 MATH3161
+	2013 S1 MATH3521
+	2013 S2 COMP3311
+	2013 S2 COMP3421
+	2013 S2 MATH2871
+	2014 S1 COMP2121
+	2014 S1 COMP3331
+	2014 S1 COMP9318
+	2014 S2 COMP3161
+	2014 S2 COMP4920
+	2014 S2 COMP9315
+hair_colour:
+	brown
+username:
+	CreativeNinja66
+favourite_TV_shows:
+	House Rules
+	Sunday Night
+	Mako: Island of Secrets
+	Vikings
+	Modern Family
+	Miss Fisher's Murder Mysteries
+	Dexter
+	Upper Middle Bogan
+favourite_bands:
+	San Cisco
+	The Wombats
+	Robert DeLong
+	The Amity Affliction
+	Rudimental
+	London Grammar
+password:
+	green
+degree:
+	Computer Science / Law
+email:
+	D.Radcliffe@ugrad.unsw.edu.au
+birthdate:
+	1989/07/23
+height:
+	1.72m
+favourite_hobbies:
+	Watching Sports
+	Coin collecting
+	Rappelling
+	Rafting
+	Fossil hunting
+	Perl programming

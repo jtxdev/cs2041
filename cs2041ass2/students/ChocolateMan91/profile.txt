@@ -1,0 +1,45 @@
+gender:
+	male
+favourite_books:
+	The Poky Little Puppy
+	Santa Evita
+	Where the Wild Things Are
+	Angels & Demons
+	The Hitchhiker's Guide to the Galaxy
+	To Kill a Mockingbird
+	Things Fall Apart
+	Night
+favourite_movies:
+	The Hobbit: An Unexpected Journey
+	Captain America: The Winter Soldier
+favourite_bands:
+	Lana Del Rey
+	Birds of Tokyo
+	Daft Punk
+	Violent Soho
+	Mikhael Paskalev
+	Touch Sensitive
+	Dustin Tebbutt
+	Bloc Party
+name:
+	Ethan Hawke
+email:
+	E.Hawke@ugrad.unsw.edu.au
+password:
+	apples
+username:
+	ChocolateMan91
+hair_colour:
+	black
+favourite_TV_shows:
+	Blue Heelers
+	McLeod's Daughters
+	Ja'mie: Private School Girl
+	Boardwalk Empire
+favourite_hobbies:
+	Golf
+	Roller skating
+birthdate:
+	1970/11/06
+height:
+	1.90m

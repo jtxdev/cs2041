@@ -1,0 +1,10 @@
+hair_colours:
+	blonde
+	black
+gender:
+	female
+weight:
+	min:
+		50kg
+	max:
+		79kg

@@ -1,0 +1,61 @@
+gender:
+	male
+email:
+	O.D.L.Hoya@ugrad.unsw.edu.au
+name:
+	Oscar De La Hoya
+password:
+	112233
+favourite_hobbies:
+	Leather crafting
+favourite_TV_shows:
+	Camp
+	Dexter
+	Sea Patrol
+	Summer Heights High
+	The Block Sky High
+	Teen Mom
+	McLeod's Daughters
+	The Slap
+	South Park
+	NCIS
+degree:
+	Engineering / Arts
+favourite_books:
+	Wild Swans
+	The Alchemist
+	The Wind in the Willows
+username:
+	CoolTiger51
+favourite_bands:
+	Childish Gambino
+	Fatboy Slim & Riva Starr
+	Lana Del Rey
+	Vampire Weekend
+	Max Frost
+	San Cisco
+	Dustin Tebbutt
+	Flume & Chet Faker
+	Grouplove
+courses:
+	2013 S1 ENGG1000
+	2013 S1 MATH1081
+	2013 S1 MATH1131
+	2013 S2 COMP1927
+	2013 S2 GENM0703
+	2013 S2 MATH1231
+	2013 S2 SENG1031
+	2014 S1 COMP2111
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 SENG2011
+	2014 S2 COMP2041
+	2014 S2 MATH2400
+	2014 S2 MATH2859
+	2014 S2 SENG2021
+hair_colour:
+	black
+height:
+	1.69m
+birthdate:
+	1973/02/04

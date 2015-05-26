@@ -1,0 +1,54 @@
+gender:
+	male
+favourite_movies:
+	Harry Potter and the Order of the Phoenix
+	Despicable Me 2
+	Grown Ups
+password:
+	james
+birthdate:
+	1971/06/22
+email:
+	K.Warner@ugrad.unsw.edu.au
+courses:
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 GSOE9210
+	2014 S2 GSOE9820
+height:
+	1.86m
+favourite_TV_shows:
+	Bergerac
+	Miss Fisher's Murder Mysteries
+	True Blood
+	Sons of Anarchy
+	Under the Dome
+	Old School
+	Underbelly Squizzy launch
+	Teen Mom
+	American Dad
+	Ja'mie: Private School Girl
+favourite_books:
+	The Pillars of the Earth
+	Magic Tree House series
+	The Hardy Boys
+	The Eagle Has Landed
+	Anne of Green Gables
+	Sweet Valley High
+favourite_hobbies:
+	Ice hockey
+degree:
+	Computing
+hair_colour:
+	brown
+username:
+	CupcakeNerd87
+favourite_bands:
+	Sticky Fingers
+	Chvrches
+	The Preatures
+	James Blake
+	Birds of Tokyo
+	Bliss N Eso
+name:
+	Kurt Warner

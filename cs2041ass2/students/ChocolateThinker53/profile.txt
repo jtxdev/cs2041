@@ -1,0 +1,60 @@
+birthdate:
+	1953/02/08
+favourite_movies:
+	Dawn of the Planet of the Apes
+	300: Rise of An Empire
+	Harry Potter and the Chamber of Secrets
+email:
+	M.Steenburgen@ugrad.unsw.edu.au
+gender:
+	female
+weight:
+	54kg
+favourite_bands:
+	Two Door Cinema Club
+	London Grammar
+	Foals
+	Lana Del Rey
+	Thundamentals
+	Flight Facilities
+	The Jezabels
+favourite_TV_shows:
+	The Simpsons
+	The Block: All Stars
+	Hemlock Grove
+	60 Minutes
+	Breaking Bad
+	Prisoner
+username:
+	ChocolateThinker53
+password:
+	peter
+name:
+	Mary Steenburgen
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 GSOE9820
+height:
+	1.56m
+hair_colour:
+	black
+favourite_hobbies:
+	Coloring
+	Curling
+	Element collecting
+	Puzzles
+	Exercise
+	Backpacking
+	Book collecting
+	Rock climbing
+	Cooking
+favourite_books:
+	Where's Wally?
+	One Hundred Years of Solitude
+	Bokura series
+	The Late, Great Planet Earth
+	James Bond
+degree:
+	Mechanical & Manf Eng/Science

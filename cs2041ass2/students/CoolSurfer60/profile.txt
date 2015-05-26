@@ -1,0 +1,60 @@
+username:
+	CoolSurfer60
+favourite_TV_shows:
+	Home and Away
+	Prisoner
+	Modern Family
+	The Big Bang Theory
+	Please Like Me
+	Pretty Little Liars
+	Winners & Losers
+	Friends
+name:
+	Bill Clinton
+courses:
+	2014 S1 COMP9020
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S1 COMP9414
+	2014 S2 COMP9024
+	2014 S2 COMP9041
+	2014 S2 COMP9331
+	2014 S2 GSOE9820
+email:
+	B.Clinton@ugrad.unsw.edu.au
+favourite_movies:
+	E.T.: The Extra-Terrestrial
+	The Lord of the Rings: The Fellowship of the Ring
+	Ice Age: The Meltdown
+	Mamma Mia!
+	Les Miserables
+	The Twilight Saga: New Moon
+favourite_hobbies:
+	Ping Pong
+	Basketball
+	Writing
+	Kayaking
+	Boating
+password:
+	sexy
+gender:
+	male
+birthdate:
+	1946/08/19
+degree:
+	Electrical Engineering
+favourite_books:
+	Perry Mason
+	The Poky Little Puppy
+	San-Antonio
+	In His Steps: What Would Jesus Do?
+	Flowers in the Attic
+	The Wind in the Willows
+	The Exorcist
+favourite_bands:
+	Matt Corby
+	Lorde
+	Sticky Fingers
+	Dustin Tebbutt
+	Haim
+	Arctic Monkeys

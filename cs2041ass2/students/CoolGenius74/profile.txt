@@ -1,0 +1,92 @@
+favourite_movies:
+	Inception
+	Finding Nemo
+	Harry Potter and the Chamber of Secrets
+password:
+	6969
+height:
+	1.78m
+degree:
+	Computer Science and Eng
+courses:
+	2010 S1 INFS1603
+	2010 S1 MATH1081
+	2010 S1 MATH1131
+	2010 S2 BIOM1010
+	2010 S2 COMP1927
+	2010 S2 MATH1231
+	2010 S2 SENG1031
+	2011 X1 GENM0703
+	2011 S1 COMP1927
+	2011 S1 COMP2111
+	2011 S1 MATH1081
+	2011 S1 SENG2010
+	2011 S2 COMP2121
+	2011 S2 COMP2911
+	2011 S2 MATH1231
+	2011 S2 SENG2020
+	2012 X1 MATH1231
+	2012 S1 COMP3141
+	2012 S1 INFS2607
+	2012 S1 PHSL2121
+	2012 S1 SENG3010
+	2012 S1 SENG3020
+	2012 S2 COMP2911
+	2012 S2 COMP3331
+	2012 S2 MATH1231
+	2012 S2 PHSL2221
+	2013 S1 COMP3141
+	2013 S1 INFS3603
+	2013 S1 INFS3608
+	2013 S1 PHYS1160
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 COMP3421
+	2013 S2 MATH2859
+	2014 S1 COMP3141
+	2014 S1 COMP9321
+	2014 S2 COMP3511
+	2014 S2 COMP4920
+	2014 S2 COMP9315
+favourite_hobbies:
+	Foreign language learning
+	Shell scripting
+	Auto audiophilia
+	Cubing
+	Taekwondo
+	Python programming
+	Paint Ball
+	Socializing
+	Motorcycling
+	Beach Volleyball
+email:
+	G.Coria@ugrad.unsw.edu.au
+birthdate:
+	1982/01/13
+favourite_books:
+	The Diary of a Young Girl, The Diary of Anne Frank
+	Star Wars
+	The Sword of Truth
+	What Color is Your Parachute?
+	What to Expect When You're Expecting
+	The Alchemist
+	Uncle Styopa
+name:
+	Guillermo Coria
+weight:
+	74kg
+favourite_bands:
+	Boy & Bear
+	Matt Corby
+	The Wombats
+	London Grammar
+	Touch Sensitive
+	Thundamentals
+	Vance Joy
+	Flume & Chet Faker
+hair_colour:
+	brown
+username:
+	CoolGenius74
+gender:
+	male

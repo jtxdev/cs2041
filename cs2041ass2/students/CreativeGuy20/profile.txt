@@ -1,0 +1,57 @@
+gender:
+	male
+hair_colour:
+	brown
+weight:
+	84kg
+favourite_movies:
+	The Lord of the Rings: The Fellowship of the Ring
+	The Passion of the Christ
+	Harry Potter and the Philosopher's Stone
+password:
+	fishing
+name:
+	Dale Earnhardt Jr
+courses:
+	2014 S1 CHEM1011
+	2014 S1 ENGG1811
+	2014 S1 MATH1131
+	2014 S1 PHYS1141
+	2014 S2 COMP1917
+	2014 S2 MATH1081
+	2014 S2 MATH1241
+	2014 S2 PHYS1241
+favourite_books:
+	The Alchemist
+	The Dark Tower
+	Anne of Green Gables
+	Flowers in the Attic
+	Harry Bosch
+	Harry Potter and the Order of the Phoenix
+	The Little Prince
+	Nineteen Eighty-Four
+birthdate:
+	1974/10/10
+favourite_hobbies:
+	Dating Online
+email:
+	D.E.Jr@ugrad.unsw.edu.au
+height:
+	1.64m
+degree:
+	Computer Science
+username:
+	CreativeGuy20
+favourite_TV_shows:
+	American Dad
+	Heartbreak High
+	House Husbands
+	Bergerac
+favourite_bands:
+	The Cat Empire
+	James Blake
+	Flight Facilities
+	Bloc Party
+	London Grammar
+	Rudimental
+	Childish Gambino

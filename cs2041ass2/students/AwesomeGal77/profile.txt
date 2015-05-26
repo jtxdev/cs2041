@@ -1,0 +1,39 @@
+height:
+	1.54m
+favourite_movies:
+	Up
+	MIB 3
+	Thor: The Dark World
+	The Da Vinci Code
+	The Dark Knight Rises
+	Iron Man 2
+gender:
+	female
+password:
+	1111
+email:
+	D.Messing@ugrad.unsw.edu.au
+username:
+	AwesomeGal77
+name:
+	Debra Messing
+favourite_bands:
+	Haim
+favourite_hobbies:
+	Acting
+	Sculpting
+	Motorcycling
+birthdate:
+	1968/08/15
+favourite_books:
+	Your Erroneous Zones
+	The Wind in the Willows
+	Haruhi Suzumiya Series
+	Redwall
+	Shogun
+	The Gruffalo
+	The Lord of the Rings
+	Kurt Wallander
+favourite_TV_shows:
+	Under The Dome
+	Summer Heights High

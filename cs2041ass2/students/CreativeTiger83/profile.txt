@@ -1,0 +1,60 @@
+favourite_bands:
+	The Preatures
+	Bloc Party
+	Violent Soho
+height:
+	1.79m
+gender:
+	female
+name:
+	Barbra Streisand
+courses:
+	2014 S1 ELEC1112
+	2014 S1 ELEC2141
+	2014 S1 MATH1141
+	2014 S1 PHYS1131
+	2014 S2 COMP1917
+	2014 S2 ENGG1000
+	2014 S2 MATH1241
+	2014 S2 PHYS1231
+hair_colour:
+	black
+favourite_TV_shows:
+	The Elephant Princess
+	Ocean Girl
+	Secrets & Lies
+	True Detective
+	Farscape
+	My Kitchen Rules
+favourite_movies:
+	Up
+	Toy Story 3
+birthdate:
+	1942/04/24
+password:
+	andrew
+favourite_books:
+	American Girl
+	Millennium Trilogy
+	Night
+	The Grapes of Wrath
+	The Diary of a Young Girl, The Diary of Anne Frank
+	Tarzan
+	Harry Potter and the Prisoner of Azkaban
+	The Lord of the Rings
+	How to Win Friends and Influence People
+favourite_hobbies:
+	Skimboarding
+	Disc golf
+	Martial arts
+	Vintage clothing
+	Brazilian jiu-jitsu
+	Writing
+	Netball
+	Bus spotting
+username:
+	CreativeTiger83
+degree:
+	Commerce/Science
+email:
+	B.Streisand@ugrad.unsw.edu.au

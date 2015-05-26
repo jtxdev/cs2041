@@ -1,0 +1,38 @@
+birthdate:
+	1958/11/12
+favourite_TV_shows:
+	Boardwalk Empire
+	Underbelly
+	Farscape
+	Heartbreak High
+	Utopia
+	The Lost World
+	True Blood
+	Arrow
+	Under The Dome
+password:
+	apollo
+hair_colour:
+	red
+favourite_movies:
+	Harry Potter and the Philosopher's Stone
+	Spider-Man 3
+	The Hunger Games
+favourite_books:
+	Alex Cross
+	Norwegian Wood
+	One Hundred Years of Solitude
+	Guin Saga
+	The Hitchhiker's Guide to the Galaxy
+gender:
+	female
+email:
+	M.Mullally@ugrad.unsw.edu.au
+username:
+	BrainyGenius46
+height:
+	1.71m
+weight:
+	81kg
+name:
+	Megan Mullally

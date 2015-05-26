@@ -1,0 +1,63 @@
+birthdate:
+	1969/01/03
+username:
+	CoolBoy15
+courses:
+	2013 S2 COMP6714
+	2013 S2 COMP9321
+	2013 S2 COMP9336
+	2013 S2 GSOE9820
+	2014 S1 COMP9332
+	2014 S1 COMP9334
+	2014 S2 COMP9041
+	2014 S2 COMP9315
+email:
+	M.Schumacher@ugrad.unsw.edu.au
+gender:
+	male
+favourite_books:
+	Paddington Bear
+weight:
+	74kg
+password:
+	redwings
+name:
+	Michael Schumacher
+favourite_hobbies:
+	Cosplaying
+	Bicycling
+	Yoga
+	Python programming
+	Relaxing
+	Antiquities
+	Watching Sports
+favourite_bands:
+	Something for Kate
+	Panama
+	Two Door Cinema Club
+	Max Frost
+	John Newman
+	Foals
+	St. Lucia
+	Goldroom
+	Touch Sensitive
+	Flume & Chet Faker
+height:
+	1.85m
+favourite_movies:
+	Quantum of Solace
+	Jurassic Park
+	Monsters University
+	Kung Fu Panda 2
+	Cars 2
+	The Dark Knight Rises
+	Maleficent
+	The Lord of the Rings: The Fellowship of the Ring
+	The Lord of the Rings: The Two Towers
+	The Lion King
+favourite_TV_shows:
+	American Horror Story
+	Underbelly
+	American Dad
+degree:
+	Electrical Engineering

@@ -1,0 +1,47 @@
+birthdate:
+	1964/01/27
+gender:
+	female
+favourite_hobbies:
+	Tai Chi
+	Sudoku
+	Baton twirling
+	Video game collecting
+	Mountain biking
+favourite_bands:
+	Mikhael Paskalev
+	Kingswood
+	San Cisco
+	Lorde
+	Two Door Cinema Club
+name:
+	Bridget Fonda
+password:
+	testing
+favourite_TV_shows:
+	The Black Adder
+	House Rules
+	South Park
+	The Force - Behind The Line
+	Jonah from Tonga
+	Wentworth
+	Dance Academy
+	The Big Bang Theory
+favourite_books:
+	Think and Grow Rich
+	Tarzan
+	Catch-22
+	Winnie-the-Pooh
+hair_colour:
+	brown
+email:
+	B.Fonda@ugrad.unsw.edu.au
+courses:
+	2014 S2 COMP4121
+degree:
+	Computer Science
+username:
+	AwesomeLover76
+favourite_movies:
+	The Sixth Sense
+	Spider-Man 2

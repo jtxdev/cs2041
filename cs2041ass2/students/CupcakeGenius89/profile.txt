@@ -1,0 +1,54 @@
+hair_colour:
+	black
+email:
+	R.Myers@ugrad.unsw.edu.au
+password:
+	golfer
+gender:
+	male
+favourite_movies:
+	Ice Age: The Meltdown
+	American Hustle
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	E.T.: The Extra-Terrestrial
+	The Dark Knight Rises
+	2012
+	MIB 3
+	Fast Five
+	Forrest Gump
+favourite_TV_shows:
+	Winners & Losers
+	Doctor Who
+name:
+	Richard Myers
+favourite_hobbies:
+	Bird watching
+	Golf
+	Foreign language learning
+	Socializing
+	Equestrianism
+	Church Activities
+	Table football
+	Housework
+	Python programming
+favourite_books:
+	The Hobbit
+	War and Peace
+	Harry Potter and the Deathly Hallows
+	Fear of Flying
+	The Shack
+birthdate:
+	1942/03/01
+favourite_bands:
+	Childish Gambino
+	Matt Corby
+	Arctic Monkeys
+	Flume & Chet Faker
+	The National
+	Birds of Tokyo
+username:
+	CupcakeGenius89
+weight:
+	70kg
+height:
+	1.69m

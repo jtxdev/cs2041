@@ -1,0 +1,66 @@
+email:
+	L.Figo@ugrad.unsw.edu.au
+height:
+	1.75m
+hair_colour:
+	black
+birthdate:
+	1972/11/04
+username:
+	ChocolateGenius97
+favourite_bands:
+	Fatboy Slim & Riva Starr
+	Empire of the Sun
+	Rudimental
+	Daft Punk
+name:
+	Luis Figo
+courses:
+	2010 S2 ACCT5930
+	2010 S2 ACCT5996
+	2010 S2 ECON5103
+	2010 S2 ECON5257
+	2010 S2 LEGT5512
+	2011 S1 ACCT5942
+	2011 S1 INFS5978
+	2011 S1 LEGT5551
+	2011 S2 ACCT5908
+	2011 S2 LEGT5541
+	2014 S1 COMP9101
+	2014 S1 COMP9201
+	2014 S1 COMP9318
+	2014 S1 COMP9321
+	2014 S2 COMP4121
+	2014 S2 COMP9041
+	2014 S2 COMP9322
+	2014 S2 GSOE9820
+favourite_books:
+	Follow Your Heart
+	The Hobbit
+	Robert Langdon
+	Problems in China's Socialist Economy
+weight:
+	65kg
+gender:
+	male
+password:
+	compaq
+favourite_hobbies:
+	Animal showing
+	Amateur radio
+	Computer Games
+	Renting Movies
+	Squash
+	Dating Online
+favourite_movies:
+	Spider-Man
+	The Twilight Saga: New Moon
+	The Passion of the Christ
+	Iron Man 2
+	The Dark Knight Rises
+	Star Wars
+	Skyfall
+	Little Fockers
+	The Twilight Saga: Eclipse
+degree:
+	Mechanical & Manufacturing Eng

@@ -1,0 +1,50 @@
+hair_colour:
+	red
+password:
+	fender
+favourite_bands:
+	Mikhael Paskalev
+	Horrorshow
+	Max Frost
+courses:
+	2010 S1 COMP9021
+	2010 S2 COMP9024
+	2011 S1 COMP9311
+	2011 S2 COMP9331
+	2012 S1 COMP9417
+	2012 S2 COMP9415
+	2013 S2 COMP9171
+	2014 S1 COMP9814
+	2014 S2 COMP9041
+weight:
+	87kg
+username:
+	AwesomeBadboy17
+favourite_books:
+	Berenstain Bears
+	Tokugawa Ieyasu
+	Wild Swans
+favourite_hobbies:
+	RC cars
+	Trainspottin
+	Fossil hunting
+	Stand-Up Comedy
+	Woodworking
+	Lawn Tennis
+	Web surfing
+height:
+	1.73m
+gender:
+	male
+degree:
+	Engineering
+name:
+	Lars Von Trier
+favourite_TV_shows:
+	Summer Heights High
+	Miss Fisher's Murder Mysteries
+	McLeod's Daughters
+birthdate:
+	1956/04/30
+email:
+	L.V.Trier@ugrad.unsw.edu.au

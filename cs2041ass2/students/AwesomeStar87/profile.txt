@@ -1,0 +1,73 @@
+hair_colour:
+	brown
+username:
+	AwesomeStar87
+name:
+	Bijan Darvish
+password:
+	freddy
+favourite_TV_shows:
+	How I Met Your Mother
+	The Force - Behind The Line
+	Modern Family
+	Neighbours
+	MASH
+	Sea Patrol
+favourite_bands:
+	Kanye West
+	British India
+	James Blake
+	Bloc Party
+favourite_hobbies:
+	Asking Yahoo
+	Kayaking
+	Computer programming
+	Bowling
+	Theater
+	Socializing
+	Hiking
+	Housework
+	Leather crafting
+courses:
+	2013 S2 COMP9020
+	2013 S2 COMP9021
+	2013 S2 COMP9311
+	2013 S2 GSOE9820
+	2014 S1 COMP9024
+	2014 S1 COMP9331
+	2014 S1 COMP9334
+	2014 S1 COMP9441
+	2014 S2 COMP9321
+	2014 S2 COMP9336
+	2014 S2 COMP9511
+email:
+	B.Darvish@ugrad.unsw.edu.au
+favourite_movies:
+	Avatar
+	The Passion of the Christ
+	Shrek the Third
+	The Lord of the Rings: The Two Towers
+	Pirates of the Caribbean: On Stranger Tides
+	The LEGO Movie
+	Star Wars: Episode II - Attack of the Clones
+	Up
+	Pirates of the Caribbean: Dead Man's Chest
+	The Hobbit: The Desolation of Smaug
+height:
+	1.79m
+birthdate:
+	1100/01/01
+gender:
+	male
+weight:
+	59kg
+favourite_books:
+	The Hite Report
+	A Brief History of Time
+	The Prophet
+	Harry Potter and the Chamber of Secrets
+	Valley of the Dolls
+	The Alchemist
+	Divine Comedy
+degree:
+	Software Engineering

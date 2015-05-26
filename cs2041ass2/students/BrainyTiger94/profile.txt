@@ -1,0 +1,55 @@
+username:
+	BrainyTiger94
+favourite_movies:
+	The Hangover Part II
+	Star Wars
+	Sherlock Holmes: A Game of Shadows
+	The Lion King
+	The Lord of the Rings: The Two Towers
+	The Heat
+	The Twilight Saga: New Moon
+	Star Wars: Episode II - Attack of the Clones
+gender:
+	female
+favourite_TV_shows:
+	Terra Nova
+	A Place To Call Home
+	Packed To The Rafters
+	The Big Bang Theory
+degree:
+	Mechatronic Eng/Biomedical Eng
+weight:
+	59kg
+favourite_bands:
+	Birds of Tokyo
+	Something for Kate
+password:
+	steven
+email:
+	C.Crawford@ugrad.unsw.edu.au
+favourite_hobbies:
+	Amateur radio
+	Ultimate Frisbee
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9511
+hair_colour:
+	brown
+birthdate:
+	1966/02/20
+favourite_books:
+	The Pillars of the Earth
+	The Celestine Prophecy
+	South Beach Diet
+	The Hobbit
+	The Lovely Bones
+	Harry Potter and the Order of the Phoenix
+	The Revolt of Mamie Stover
+	Flowers in the Attic
+	The Girl with the Dragon Tattoo
+	Harry Potter and the Half-Blood Prince
+name:
+	Cindy Crawford
+height:
+	1.70m

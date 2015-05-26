@@ -1,0 +1,91 @@
+name:
+	Debbie Reynolds
+favourite_books:
+	Flowers in the Attic
+	The Celestine Prophecy
+	The Joy of Sex
+email:
+	D.Reynolds@ugrad.unsw.edu.au
+gender:
+	female
+degree:
+	Computer Science
+favourite_hobbies:
+	Tai Chi
+	Yoga
+	Gardening
+	Animal Care
+	Aircraft spotting
+	Microscopy
+	Taxidermy
+	Drama
+	Motorcycling
+	Cooking
+favourite_movies:
+	Godzilla
+	Brave
+	Puss in Boots
+	Life of Pi
+	The Dark Knight Rises
+	Identity Thief
+	How to Train Your Dragon
+	Hancock
+	The Dark Knight
+courses:
+	2010 S1 BABS1201
+	2010 S1 CHEM1011
+	2010 S1 MATH1131
+	2010 S1 PHYS1131
+	2010 S2 CHEM1021
+	2010 S2 MATH1231
+	2010 S2 MATS9520
+	2010 S2 PHYS1231
+	2011 S1 CHEM2041
+	2011 S1 GENE4001
+	2011 S1 MATS1142
+	2011 S1 NANO2002
+	2011 S1 PHYS2030
+	2011 S1 PHYS2040
+	2011 S2 BIOC2201
+	2011 S2 CHEM2828
+	2011 S2 GENE1011
+	2011 S2 PHYS2060
+	2011 S2 PHYS2410
+	2011 S2 PHYS3310
+	2012 S1 BABS3121
+	2012 S1 CHEM3011
+	2012 S1 NANO3101
+	2012 S1 NANO3410
+	2012 S1 PHYS3080
+	2012 S2 CHEM6041
+	2012 S2 COMP1917
+	2012 S2 NANO3003
+	2012 S2 NANO3440
+	2012 S2 PHYS2630
+	2012 S2 PHYS3410
+	2013 S1 PHYS3770
+	2013 S2 PHYS3060
+	2013 S2 PHYS3780
+	2014 S2 COMP9020
+	2014 S2 COMP9032
+	2014 S2 GMAT9300
+username:
+	CreativeStar76
+hair_colour:
+	black
+favourite_TV_shows:
+	MASH
+	Wonderland
+	Teen Mom
+	Homeland
+password:
+	jasmine
+favourite_bands:
+	San Cisco
+	Violent Soho
+	Grouplove
+	Thundamentals
+height:
+	1.67m
+birthdate:
+	1932/04/01

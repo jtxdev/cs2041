@@ -1,0 +1,74 @@
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S1 PHYS1131
+	2014 S2 COMP1927
+	2014 S2 ELEC1111
+	2014 S2 PHYS1231
+favourite_hobbies:
+	Origami
+	Lapidary
+	Letterboxing
+	Embroidery
+	Debugging
+	Vintage Books
+	Playing Music
+	Writing
+	Computer
+	Nordic skating
+favourite_bands:
+	Matt Corby
+	Cloud Control
+	Fatboy Slim & Riva Starr
+	Boy & Bear
+	Vampire Weekend
+	Foals
+	The Amity Affliction
+	Violent Soho
+	Andy Bull
+favourite_movies:
+	Man of Steel
+	The Great Gatsby
+	The Matrix Reloaded
+	The Lord of the Rings: The Two Towers
+	Megamind
+	Shrek the Third
+	Avatar
+	Star Wars
+	Frozen
+	Mamma Mia!
+favourite_books:
+	And Then There Were None
+	Watership Down
+	Your Erroneous Zones
+	Captain Underpants
+	Where the Wild Things Are
+	The Kite Runner
+	Frank Merriwell
+	You Can Heal Your Life
+birthdate:
+	1903/05/29
+gender:
+	male
+favourite_TV_shows:
+	How I Met Your Mother
+	The Blacklist
+	Sons of Anarchy
+	Dance Academy
+password:
+	nascar
+degree:
+	Information Technology
+hair_colour:
+	black
+name:
+	Bob Hope
+weight:
+	67kg
+email:
+	B.Hope@ugrad.unsw.edu.au
+height:
+	1.75m
+username:
+	CreativeStar68

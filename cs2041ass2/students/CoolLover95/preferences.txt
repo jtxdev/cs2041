@@ -1,0 +1,14 @@
+age:
+	min:
+		18
+	max:
+		31
+hair_colours:
+	brown
+height:
+	min:
+		1.56m
+	max:
+		1.88m
+gender:
+	male

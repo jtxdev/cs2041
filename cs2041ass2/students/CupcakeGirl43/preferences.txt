@@ -1,0 +1,15 @@
+hair_colours:
+	blonde
+	brown
+gender:
+	male
+weight:
+	min:
+		56kg
+	max:
+		93kg
+height:
+	min:
+		1.81m
+	max:
+		1.92m

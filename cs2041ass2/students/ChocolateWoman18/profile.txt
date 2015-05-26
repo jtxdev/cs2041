@@ -1,0 +1,78 @@
+favourite_movies:
+	Star Wars
+favourite_books:
+	Jonathan Livingston Seagull
+	Harry Potter and the Chamber of Secrets
+	Uncle Styopa
+	Jaws
+	She: A History of Adventure
+	Erast Fandorin
+	War and Peace
+	A Message to Garcia
+	Watership Down
+	Norwegian Wood
+username:
+	ChocolateWoman18
+height:
+	1.59m
+degree:
+	Science/Computer Science
+weight:
+	55kg
+email:
+	E.Harold@ugrad.unsw.edu.au
+name:
+	Erika Harold
+gender:
+	female
+password:
+	steelers
+courses:
+	2010 S1 COMP1917
+	2010 S1 MATH1081
+	2010 S2 COMP1927
+	2010 S2 ENGG1000
+	2010 S2 MATH1231
+	2010 S2 SENG1031
+	2011 S1 COMP2111
+	2011 S1 COMP2121
+	2011 S1 GENC3003
+	2011 S1 INFS2603
+	2011 S1 SENG2010
+	2011 S2 COMP2911
+	2011 S2 COMP3711
+	2011 S2 MATH2859
+	2011 S2 PHYS1160
+	2011 S2 SENG2020
+	2012 S1 COMP3141
+	2012 S1 COMP3411
+	2012 S1 INFS2607
+	2012 S1 SENG3010
+	2012 S1 SENG3020
+	2012 S2 COMP3171
+	2012 S2 COMP3511
+	2012 S2 ECON1101
+	2013 S1 COMP3141
+	2014 S1 COMP3311
+	2014 S1 COMP3441
+	2014 S1 PHYS1110
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+favourite_hobbies:
+	Darts
+	Meteorology
+birthdate:
+	1980/02/20
+favourite_TV_shows:
+	The Block Sky High
+favourite_bands:
+	Something for Kate
+	Matt Corby
+	Chet Faker
+	James Blake
+	The Preatures
+	Touch Sensitive
+	Kingswood
+	St. Lucia
+hair_colour:
+	black

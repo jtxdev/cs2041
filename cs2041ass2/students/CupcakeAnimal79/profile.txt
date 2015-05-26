@@ -1,0 +1,57 @@
+email:
+	B.Callahan@ugrad.unsw.edu.au
+favourite_movies:
+	Pirates of the Caribbean: At World's End
+	Inception
+	The Hobbit: An Unexpected Journey
+	Star Wars: Episode II - Attack of the Clones
+	2012
+	Harry Potter and the Prisoner of Azkaban
+	Iron Man 3
+	Spider-Man 3
+birthdate:
+	22/05/1976
+hair_colour:
+	brown
+name:
+	Bill Callahan
+favourite_books:
+	Flowers in the Attic
+	The Gruffalo
+	San-Antonio
+	Charlotte's Web
+	The Pillars of the Earth
+	The Very Hungry Caterpillar
+username:
+	CupcakeAnimal79
+weight:
+	69kg
+password:
+	xavier
+degree:
+	Science/Computer Science
+height:
+	1.73m
+favourite_bands:
+	The Kite String Tangle
+	Sticky Fingers
+	Empire of the Sun
+	Goldroom
+	Kingswood
+	San Cisco
+	James Blake
+	The Preatures
+	Arctic Monkeys
+gender:
+	male
+courses:
+	2014 S2 ATSI1012
+	2014 S2 COMP4121
+	2014 S2 FINS1613
+	2014 S2 INFS1603
+favourite_TV_shows:
+	Under The Dome
+	Neighbours
+	Ocean Girl
+	Underbelly Squizzy launch
+	McLeod's Daughters

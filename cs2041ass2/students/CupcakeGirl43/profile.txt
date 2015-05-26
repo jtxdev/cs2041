@@ -1,0 +1,71 @@
+password:
+	samson
+favourite_hobbies:
+	Video gaming
+	Airsoft
+	Radio-controlled car racing
+	Insect collecting
+	Flying
+	Debugging
+	Leather crafting
+	Snooker
+	Modelling
+	Sleeping
+favourite_bands:
+	Arctic Monkeys
+	Goldroom
+	Birds of Tokyo
+	Arcade Fire
+	John Newman
+	Lana Del Rey
+	The Amity Affliction
+	Fatboy Slim & Riva Starr
+birthdate:
+	1968/10/16
+courses:
+	2011 S1 ENGG1000
+	2011 S1 ENGG1811
+	2011 S1 MATH1131
+	2011 S1 PHYS1131
+	2011 S2 ELEC1111
+	2011 S2 MATH1231
+	2011 S2 PHYS1231
+	2011 S2 SOLA1070
+	2012 S1 MATS1101
+	2012 S1 SOLA2060
+	2014 S1 COMP1911
+	2014 S1 MATH2089
+	2014 S2 COMP1921
+	2014 S2 SOLA2052
+	2014 S2 SOLA2053
+	2014 S2 SOLA2540
+height:
+	1.69m
+email:
+	E.Zylberstein@ugrad.unsw.edu.au
+degree:
+	Software Engineering
+favourite_movies:
+	Harry Potter and the Deathly Hallows Part 2
+favourite_books:
+	The Late, Great Planet Earth
+	Charlotte's Web
+	Harry Potter and the Goblet of Fire
+	The Poky Little Puppy
+	Sophie's World
+	The Girl with the Dragon Tattoo
+	Where's Wally?
+	Angels & Demons
+hair_colour:
+	black
+name:
+	Elsa Zylberstein
+favourite_TV_shows:
+	Offspring
+	Game of Thrones
+username:
+	CupcakeGirl43
+weight:
+	60kg
+gender:
+	female

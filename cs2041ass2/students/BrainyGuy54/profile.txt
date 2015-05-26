@@ -1,0 +1,37 @@
+name:
+	Nicanor Duarte Frutos
+weight:
+	75kg
+degree:
+	Mechanical & Manf Eng/Science
+favourite_TV_shows:
+	60 Minutes
+	The Simpsons
+birthdate:
+	1956/10/11
+favourite_books:
+	The Dukan Diet
+	Tuesdays with Morrie
+	Pippi Longstocking
+	The Gruffalo
+	The Lord of the Rings
+	Valley of the Dolls
+courses:
+	2014 S1 ENGG1000
+	2014 S1 PHYS1121
+	2014 S2 COMP1927
+	2014 S2 MATH1081
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+gender:
+	male
+username:
+	BrainyGuy54
+height:
+	1.82m
+email:
+	N.D.Frutos@ugrad.unsw.edu.au
+password:
+	flower
+hair_colour:
+	blonde

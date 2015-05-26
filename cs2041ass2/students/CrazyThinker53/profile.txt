@@ -1,0 +1,66 @@
+courses:
+	1979 S0 RMCD1141
+	1979 S0 RMCD1181
+	1979 S0 RMCD1203
+	1979 S0 RMCD1306
+	1979 S0 RMCD1521
+	2014 S2 COMP4418
+height:
+	1.69m
+favourite_hobbies:
+	Playing Musical Instruments
+	Baton twirling
+	Computer programming
+	Volunteer Work
+	Photography
+	Watching Sports
+	Dance
+favourite_bands:
+	Thundamentals
+	Flight Facilities
+	Arctic Monkeys
+	Dustin Tebbutt
+	Andy Bull
+	Arcade Fire
+	Vampire Weekend
+password:
+	yankee
+degree:
+	Engineering/Commerce
+hair_colour:
+	brown
+birthdate:
+	1970/04/29
+username:
+	CrazyThinker53
+name:
+	Uma Thurman
+favourite_movies:
+	Dr. Seuss' The Lorax
+	The Passion of the Christ
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Shrek the Third
+gender:
+	female
+favourite_TV_shows:
+	Nowhere Boys
+	McLeod's Daughters
+	Sunday Night
+	The Doctor Blake Mysteries
+	Secrets & Lies
+	Utopia
+	Suits
+	The Walking Dead
+	Danger 5
+favourite_books:
+	Berenstain Bears
+	Musashi
+	Diary of a Wimpy Kid
+	The Lord of the Rings
+	Peter Rabbit
+	Kon-Tiki: Across the Pacific in a Raft
+	The Railway Series
+email:
+	U.Thurman@ugrad.unsw.edu.au
+weight:
+	54kg

@@ -1,0 +1,72 @@
+name:
+	Celine Dion
+birthdate:
+	1968/03/30
+favourite_TV_shows:
+	The Big Bang Theory
+	Home and Away
+	House Rules
+	NCIS
+	Seinfeld
+	Teen Mom
+	Rush
+favourite_bands:
+	Lana Del Rey
+	The Kite String Tangle
+	Sticky Fingers
+	Chvrches
+	Arctic Monkeys
+	Thundamentals
+	Goldroom
+	Birds of Tokyo
+	Touch Sensitive
+degree:
+	Software Engineering
+hair_colour:
+	brown
+username:
+	CrazyBaby22
+email:
+	C.Dion@ugrad.unsw.edu.au
+password:
+	iloveyou
+favourite_books:
+	The Prophet
+	Love You Forever
+	The Shadowhunter Chronicles
+	Think and Grow Rich
+	The Gruffalo
+	The Dark Tower
+	Harry Hole
+	The Horse Whisperer
+	Harry Potter and the Deathly Hallows
+	Knowledge-value Revolution
+courses:
+	2013 S2 GENM0703
+	2013 S2 MARK1012
+	2013 S2 MATH2099
+	2014 X1 GENM0202
+	2014 S1 COMP1911
+	2014 S1 ELEC2141
+	2014 S1 MATH2069
+	2014 S2 COMP1921
+	2014 S2 GENL1021
+	2014 S2 MATH2099
+favourite_hobbies:
+	Snowboarding
+	Machining
+	Weightlifting
+	Rugby
+	Socializing
+	Amateur radio
+	Polo
+	Mineral collecting
+	Kiteboarding
+gender:
+	female
+weight:
+	63kg
+height:
+	1.65m
+favourite_movies:
+	The Lion King

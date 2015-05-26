@@ -1,0 +1,42 @@
+favourite_hobbies:
+	Ultimate Frisbee
+	RC cars
+	Skimboarding
+email:
+	R.Wilson@ugrad.unsw.edu.au
+gender:
+	female
+favourite_books:
+	Your Erroneous Zones
+	Problems in China's Socialist Economy
+	Mr. Men
+	Jonathan Livingston Seagull
+	The Lord of the Rings
+	Flowers in the Attic
+favourite_TV_shows:
+	Heartbreak High
+	Friends
+	Doctor Who
+	Neighbours
+	Hemlock Grove
+degree:
+	Information Technology
+weight:
+	57kg
+height:
+	1.68m
+courses:
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 ENGG1000
+	2014 S1 PHYS1121
+	2014 S2 COMP3222
+	2014 S2 ELEC1111
+password:
+	oliver
+name:
+	Rita Wilson
+username:
+	CupcakeKitten62
+birthdate:
+	1990/08/04

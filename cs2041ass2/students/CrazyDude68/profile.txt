@@ -1,0 +1,82 @@
+name:
+	Russell Simmons
+username:
+	CrazyDude68
+favourite_bands:
+	Lorde
+	Matt Corby
+	SAFIA
+	Max Frost
+	Daft Punk
+	Goldroom
+	The Preatures
+	Flight Facilities
+	Arctic Monkeys
+password:
+	232323
+favourite_books:
+	Charlotte's Web
+	The Girl with the Dragon Tattoo
+	Perfume
+	In His Steps: What Would Jesus Do?
+	Harry Potter and the Chamber of Secrets
+	The Giver
+	Picture-and-story book Railway Guerilla
+favourite_movies:
+	Ice Age: The Meltdown
+	Frozen
+	Star Wars: Episode III - Revenge of the Sith
+	22 Jump Street
+	Iron Man 3
+	Harry Potter and the Philosopher's Stone
+	The Hobbit: An Unexpected Journey
+	Inception
+	Finding Nemo
+gender:
+	male
+hair_colour:
+	black
+degree:
+	Computer Science
+favourite_TV_shows:
+	Modern Family
+	True Blood
+	Under the Dome
+	How I Met Your Mother
+	Doctor Who
+favourite_hobbies:
+	Cheerleading
+	Watching Movies
+	Body Building
+courses:
+	2012 S1 COMP1917
+	2012 S1 MATH1081
+	2012 S1 MATH1151
+	2012 S1 SCIF1121
+	2012 S2 COMP1927
+	2012 S2 ELEC1111
+	2012 S2 MATH1251
+	2012 S2 PHYS1131
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 COMP9447
+	2013 S1 MATH2111
+	2013 S2 COMP2041
+	2013 S2 COMP3151
+	2013 S2 COMP3222
+	2013 S2 MATH2601
+	2014 S1 COMP3821
+	2014 S1 COMP3891
+	2014 S1 MATH2901
+	2014 S1 MATH3711
+	2014 S2 COMP3161
+	2014 S2 COMP4121
+	2014 S2 COMP4920
+weight:
+	77kg
+height:
+	1.77m
+birthdate:
+	1957/10/04
+email:
+	R.Simmons@ugrad.unsw.edu.au

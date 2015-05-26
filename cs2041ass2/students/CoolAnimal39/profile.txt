@@ -1,0 +1,66 @@
+hair_colour:
+	black
+email:
+	A.Chalabi@ugrad.unsw.edu.au
+favourite_bands:
+	Arcade Fire
+	The National
+	Josh Pyke
+	Bloc Party
+	The Wombats
+	Panama
+	Max Frost
+	Two Door Cinema Club
+name:
+	Ahmed Chalabi
+password:
+	mike
+favourite_books:
+	Charlie and the Chocolate Factory
+	Harry Potter and the Deathly Hallows
+	Harry Potter and the Prisoner of Azkaban
+	Perfume
+favourite_TV_shows:
+	MASH
+	Danger 5
+	Packed to the Rafters
+	Utopia
+	The Slap
+	Rake
+username:
+	CoolAnimal39
+courses:
+	2012 S1 ENGG1000
+	2012 S1 ENGG1811
+	2012 S1 MATH1131
+	2012 S1 PHYS1121
+	2012 S2 ELEC1111
+	2012 S2 MATH1231
+	2012 S2 SOLA1070
+	2013 S1 MATS1101
+	2013 S1 SOLA2060
+	2013 S2 SOLA2052
+	2013 S2 SOLA2053
+	2013 S2 SOLA3010
+	2014 S1 COMP1917
+	2014 S1 SOLA5050
+	2014 S1 SOLA5057
+	2014 S2 COMP2041
+	2014 S2 SOLA3020
+	2014 S2 SOLA5054
+	2014 S2 SOLA5056
+height:
+	1.74m
+degree:
+	Information Systems
+favourite_hobbies:
+	Coding
+	Listening to Music
+	Renting Movies
+	Net Ball
+gender:
+	male
+birthdate:
+	1944/10/30
+weight:
+	76kg

@@ -1,0 +1,54 @@
+height:
+	1.63m
+gender:
+	female
+favourite_bands:
+	Chvrches
+	Max Frost
+	The Wombats
+name:
+	Nia Vardalos
+favourite_books:
+	Totto-chan, the Little Girl at the Window
+	The Ginger Man
+birthdate:
+	1962/09/24
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1081
+	2014 S1 MATH1131
+	2014 S2 MATH1131
+	2014 S2 SENG1031
+favourite_TV_shows:
+	The Walking Dead
+	NCIS
+email:
+	N.Vardalos@ugrad.unsw.edu.au
+username:
+	BrainyGirl98
+hair_colour:
+	blonde
+favourite_movies:
+	Star Wars: Episode II - Attack of the Clones
+	The Lion King
+	Spider-Man
+	Up
+	Sherlock Holmes: A Game of Shadows
+	Star Wars
+	Skyfall
+	American Hustle
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Men in Black
+weight:
+	64kg
+password:
+	hammer
+degree:
+	Computer Engineering/Science
+favourite_hobbies:
+	Figure skating
+	Urban exploration
+	Inline Skating
+	Climbing
+	Renting Movies

@@ -1,0 +1,15 @@
+height:
+	min:
+		1.38m
+	max:
+		1.73m
+gender:
+	female
+hair_colours:
+	red
+	black
+age:
+	min:
+		18
+	max:
+		22

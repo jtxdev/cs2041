@@ -1,0 +1,45 @@
+hair_colour:
+	brown
+favourite_hobbies:
+	Auto racing
+	Motorcycling
+	Socializing
+	Surfing
+	Scrapbooking
+	Couponing
+	Gymnastics
+	Gongoozling
+favourite_movies:
+	Rio
+	Rise of the Planet of the Apes
+birthdate:
+	1969/09/25
+password:
+	blondes
+name:
+	Catherine Zeta-Jones
+username:
+	CreativeWoman60
+courses:
+	2014 S1 COMP9020
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S1 GSOE9820
+	2014 S2 COMP9024
+	2014 S2 COMP9041
+	2014 S2 COMP9331
+degree:
+	Computer Science
+gender:
+	female
+favourite_TV_shows:
+	Old School
+	The Doctor Blake Mysteries
+	NCIS
+	Boardwalk Empire
+email:
+	C.Zeta-Jones@ugrad.unsw.edu.au
+favourite_bands:
+	Max Frost
+	Kanye West
+	Bloc Party

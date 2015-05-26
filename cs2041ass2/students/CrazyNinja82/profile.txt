@@ -1,0 +1,53 @@
+gender:
+	male
+favourite_bands:
+	Kanye West
+	John Newman
+	Boy & Bear
+	Empire of the Sun
+	MS MR
+	Violent Soho
+favourite_hobbies:
+	Entertaining
+	Beach
+	Motorcycling
+	Dating Online
+	Darts
+name:
+	King Abdullah II
+username:
+	CrazyNinja82
+password:
+	doggie
+weight:
+	68kg
+height:
+	1.82m
+degree:
+	Engineering / Arts
+favourite_movies:
+	The Dark Knight
+	Captain America: The Winter Soldier
+	Harry Potter and the Prisoner of Azkaban
+	Ratatouille
+	Harry Potter and the Chamber of Secrets
+	Transformers
+favourite_TV_shows:
+	All Saints
+	Camp
+	Game of Thrones
+	South Park
+	Homeland
+	How I Met Your Mother
+email:
+	K.A.II@ugrad.unsw.edu.au
+birthdate:
+	1962/01/30
+courses:
+	2014 S2 COMP2041
+	2014 S2 COMP3161
+	2014 S2 COMP3421
+hair_colour:
+	black
+favourite_books:
+	The Neverending Story

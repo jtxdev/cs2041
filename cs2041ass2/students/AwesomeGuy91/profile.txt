@@ -1,0 +1,61 @@
+height:
+	1.80m
+email:
+	M.A.Barrera@ugrad.unsw.edu.au
+hair_colour:
+	black
+birthdate:
+	1974/01/17
+courses:
+	2011 S2 COMP1917
+	2011 S2 ENGG1000
+	2011 S2 MATH1131
+	2011 S2 PHYS1121
+	2012 X1 MATH1231
+	2012 S1 ARTS1630
+	2012 S1 COMP1927
+	2012 S1 MATH2069
+	2012 S2 COMP1927
+	2012 S2 ELEC1111
+	2012 S2 PHYS1221
+	2013 S1 COMP2121
+	2013 S1 ELEC2134
+	2013 S2 COMP3222
+	2013 S2 COMP3331
+	2013 S2 COMP4920
+	2013 S2 MATH2099
+	2014 X1 MARK1012
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 COMP3441
+	2014 S1 GMAT4900
+	2014 S2 COMP6771
+	2014 S2 INFS1602
+	2014 S2 MATH1081
+username:
+	AwesomeGuy91
+name:
+	Marco Antonio Barrera
+favourite_hobbies:
+	Art collecting
+password:
+	magnum
+favourite_bands:
+	Bloc Party
+	Chvrches
+	James Blake
+	Major Lazer
+	The Kite String Tangle
+	Cloud Control
+	Matt Corby
+	Boy & Bear
+	Childish Gambino
+	The Amity Affliction
+degree:
+	Information Technology
+gender:
+	male
+favourite_books:
+	The Adventures of Pinocchio
+	Shogun
+	Martine

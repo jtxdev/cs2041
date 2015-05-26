@@ -1,0 +1,8 @@
+Diary.txt
+
+25th Oct 4am-10:30am
+
+94f8be0 HEAD@{0}: commit: browse displays 10 at a time, can go back and forth, profile pictures link to profile
+182b2fe HEAD@{1}: commit: get_field() created to replace all other functions related to retrieving a profile field, fixed load_allprofiles()
+1d1cac0 HEAD@{2}: commit: parses profile.txt and stores in hash, consistent profile info displayed
+6ac7040 HEAD@{3}: commit (initial): starting point

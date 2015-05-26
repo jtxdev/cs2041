@@ -1,0 +1,54 @@
+weight:
+	76kg
+email:
+	J.OBrien@ugrad.unsw.edu.au
+hair_colour:
+	black
+favourite_books:
+	Love Story
+	Who Moved My Cheese?
+	The Dukan Diet
+	The Hobbit
+	Heidi's Years of Learning and Travel
+	A Brief History of Time
+birthdate:
+	1300/01/01
+name:
+	Jim OBrien
+favourite_movies:
+	War of the Worlds
+	Pirates of the Caribbean: Dead Man's Chest
+	300: Rise of An Empire
+	Spider-Man 2
+	Oz The Great and Powerful
+	Dawn of the Planet of the Apes
+	The Sixth Sense
+password:
+	casper
+favourite_hobbies:
+	Sand castle building
+	Creative writing
+	Socializing
+	Ghost Hunting
+favourite_TV_shows:
+	Wonderland
+	Orphan Black
+	Revenge
+	Doctor Who
+	South Park
+	The Code
+gender:
+	male
+username:
+	CoolGuy66
+favourite_bands:
+	Horrorshow
+	Vampire Weekend
+	Fatboy Slim & Riva Starr
+	Sticky Fingers
+	The Kite String Tangle
+	Cloud Control
+	Chet Faker
+	Flight Facilities
+	Birds of Tokyo
+	Goldroom

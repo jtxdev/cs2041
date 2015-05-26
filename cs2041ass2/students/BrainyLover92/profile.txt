@@ -1,0 +1,65 @@
+degree:
+	Information Technology
+birthdate:
+	1945/08/26
+name:
+	Tom Ridge
+height:
+	1.70m
+favourite_TV_shows:
+	The Walking Dead
+gender:
+	male
+favourite_books:
+	The Horse Whisperer
+	The Purpose Driven Life
+	A Message to Garcia
+	Who Moved My Cheese?
+favourite_bands:
+	Birds of Tokyo
+	RUFUS
+username:
+	BrainyLover92
+weight:
+	59kg
+email:
+	T.Ridge@ugrad.unsw.edu.au
+courses:
+	2011 S1 COMP1917
+	2011 S1 ENGG1000
+	2011 S1 MATH1131
+	2011 S1 PHYS1121
+	2011 S2 ELEC1111
+	2011 S2 MATH1231
+	2011 S2 PHYS1221
+	2012 S1 COMP2121
+	2012 S1 COMP2911
+	2012 S1 ELEC2134
+	2012 S1 MATH2069
+	2012 S2 ACCT1501
+	2012 S2 ECON1101
+	2012 S2 MATH2099
+	2012 S2 MGMT1001
+	2013 S1 COMP3121
+	2013 S1 COMP3231
+	2013 S1 COMP3411
+	2013 S1 MARK1012
+	2013 S2 COMP3222
+	2013 S2 ELEC2133
+	2013 S2 FINS1613
+	2014 S2 COMP3601
+	2014 S2 INFS1602
+	2014 S2 INFS1603
+hair_colour:
+	blonde
+favourite_movies:
+	Indiana Jones and the Kingdom of the Crystal Skull
+	Lucy
+	Spider-Man 3
+	Wreck-It Ralph
+	Harry Potter and the Chamber of Secrets
+	2012
+	Harry Potter and the Prisoner of Azkaban
+	Brave
+password:
+	chris

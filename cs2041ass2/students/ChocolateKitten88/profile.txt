@@ -1,0 +1,77 @@
+password:
+	oliver
+favourite_movies:
+	Star Wars: Episode I - The Phantom Menace
+	Madagascar: Escape 2 Africa
+	The Incredibles
+	World War Z
+	Harry Potter and the Philosopher's Stone
+	22 Jump Street
+	Harry Potter and the Goblet of Fire
+weight:
+	55kg
+favourite_TV_shows:
+	Under the Dome
+	Puberty Blues
+	Game of Thrones
+	Dexter
+	Falling Skies
+	Love Child
+courses:
+	2008 S1 ACCT1501
+	2008 S1 CHIN1006
+	2008 S1 ECON1101
+	2008 S1 ECON1202
+	2008 S2 ACCT1511
+	2008 S2 CHIN1007
+	2008 S2 ECON1102
+	2008 S2 ECON1203
+	2009 S1 ACCT2522
+	2009 S1 ARTS2450
+	2009 S1 LEGT2712
+	2009 S2 ACCT2542
+	2009 S2 ARTS2451
+	2009 S2 MGMT2002
+	2009 S2 MGMT2200
+	2010 S1 ACCT3563
+	2010 S1 ARTS1870
+	2010 S1 MGMT1001
+	2010 S1 MGMT2725
+	2010 S2 ACCT3583
+	2010 S2 ARTS1871
+	2010 S2 MGMT1002
+	2011 S1 ACCT3708
+	2011 S1 LEGT1710
+	2011 S1 MGMT2001
+	2011 S2 FINS1613
+	2011 S2 LEGT2741
+	2011 S2 STRE3101
+	2012 S1 INFS1602
+	2012 S1 LEGT2751
+	2012 S1 MGMT3721
+	2012 S2 MGMT2705
+	2012 S2 MGMT3728
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+username:
+	ChocolateKitten88
+name:
+	Marieta Chrousala
+hair_colour:
+	black
+favourite_bands:
+	Arcade Fire
+	The Preatures
+	The Amity Affliction
+email:
+	M.Chrousala@ugrad.unsw.edu.au
+height:
+	1.70m
+gender:
+	female
+degree:
+	Computer Science
+birthdate:
+	0100/01/01

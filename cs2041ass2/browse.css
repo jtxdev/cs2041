@@ -1,0 +1,53 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 40px;
+  background-color: #ffffff;
+}
+
+.browseprofile {
+   background-color: #ffffff;
+   padding-left: 0px;
+   padding-right: 0px;
+}
+
+.profile-container > img {
+  vertical-align: middle;
+}
+
+.profilepic{
+
+    margin-top: 15px;
+    border: 1px solid #ffffff;
+}
+
+.profilepic:hover {
+    border: 1px solid #0000ff;
+}
+
+.panel-heading {
+    font-size: 16px;
+}
+
+pre {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+li.disabled {
+   pointer-events: none;
+   cursor: default;
+}
+
+li.active {
+   pointer-events: none;
+   cursor: default;
+}
+
+div.browsedesc {
+    text-align: center;
+    font-weight: normal;
+    width: auto;
+    margin: 5px;
+}

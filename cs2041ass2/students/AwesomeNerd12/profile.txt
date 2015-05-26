@@ -1,0 +1,68 @@
+email:
+	J.Moore@ugrad.unsw.edu.au
+favourite_hobbies:
+	Flag Football
+	Auto audiophilia
+	Running
+	Record collecting
+	Animal showing
+	Backpacking
+	Metal detecting
+favourite_books:
+	The Shack
+	To Kill a Mockingbird
+	No Longer Human
+	Watership Down
+	Norwegian Wood
+birthdate:
+	1960/12/03
+favourite_TV_shows:
+	Under The Dome
+	Utopia
+	The Block Sky High
+	Summer Heights High
+	Rush
+	Farscape
+	Doctor Who
+	Please Like Me
+degree:
+	Information Technology
+favourite_movies:
+	Indiana Jones and the Kingdom of the Crystal Skull
+	Independence Day
+	Cars 2
+height:
+	1.58m
+gender:
+	female
+courses:
+	2012 S1 COMP1917
+	2012 S1 MATH1131
+	2012 S1 SOMA1600
+	2012 S1 SOMA1604
+	2012 S2 MATH1131
+	2012 S2 SOMA1608
+	2012 S2 SOMA2602
+	2013 S1 MATH1131
+	2013 S1 SOMA1603
+	2013 S1 SOMA2607
+	2013 S1 SOMA2609
+	2013 S2 COMP1927
+	2013 S2 SAHT3614
+	2014 X1 MATH1231
+	2014 S1 ARTS1450
+	2014 S1 ARTS1630
+	2014 S1 COMP2911
+	2014 S2 COMP2041
+	2014 S2 SOMA3610
+	2014 S2 SOMA4751
+password:
+	12345678
+favourite_bands:
+	Queens of the Stone Age
+name:
+	Julianne Moore
+username:
+	AwesomeNerd12
+weight:
+	64kg

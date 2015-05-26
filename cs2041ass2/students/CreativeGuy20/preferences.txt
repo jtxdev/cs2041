@@ -1,0 +1,10 @@
+hair_colours:
+	black
+	red
+age:
+	min:
+		18
+	max:
+		22
+gender:
+	female

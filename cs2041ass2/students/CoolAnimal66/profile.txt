@@ -1,0 +1,67 @@
+favourite_books:
+	Harry Potter and the Chamber of Secrets
+	The Wheel of Time
+	War and Peace
+	The Vampire Chronicles
+favourite_bands:
+	Foals
+	Lorde
+	Fatboy Slim & Riva Starr
+	Childish Gambino
+	Flight Facilities
+	The Preatures
+	Touch Sensitive
+favourite_hobbies:
+	Driving
+	Vintage Books
+	Socializing
+	Australian Football League
+name:
+	Roberto Carlos
+favourite_TV_shows:
+	Summer Heights High
+	True Detective
+	American Horror Story
+	Jonah from Tonga
+	NCIS
+	The Blacklist
+	Dancing With The Stars
+	Mako: Island of Secrets
+username:
+	CoolAnimal66
+height:
+	1.73m
+birthdate:
+	19/07/1977
+courses:
+	2013 S1 MATH1131
+	2013 S1 PHYS1131
+	2013 S1 PSYC1001
+	2013 S1 SCIF1121
+	2013 S2 BIOM1010
+	2013 S2 COMP1917
+	2013 S2 ENGG1000
+	2013 S2 MATH1231
+	2014 X1 COMP1927
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 COMP3311
+	2014 S1 MATH1081
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+password:
+	gregory
+email:
+	R.Carlos@ugrad.unsw.edu.au
+gender:
+	male
+degree:
+	Computing
+hair_colour:
+	black
+favourite_movies:
+	Ice Age: Continental Drift
+	Iron Man 3
+	Lucy
+	22 Jump Street
+	Quantum of Solace

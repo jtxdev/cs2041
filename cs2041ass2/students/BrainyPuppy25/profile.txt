@@ -1,0 +1,63 @@
+favourite_hobbies:
+	Yoga
+	Asking Yahoo
+	Couponing
+	Golf
+	Crafts
+	Drama
+	Airsoft
+	Sports
+username:
+	BrainyPuppy25
+favourite_bands:
+	Rudimental
+	Lorde
+	Arctic Monkeys
+	Goldroom
+	Dustin Tebbutt
+courses:
+	2013 S2 COMP9021
+	2013 S2 COMP9311
+	2013 S2 COMP9511
+	2013 S2 GSOE9820
+	2014 S1 COMP9024
+	2014 S1 COMP9331
+	2014 S1 COMP9332
+	2014 S1 COMP9441
+	2014 S2 COMP6771
+	2014 S2 COMP9041
+	2014 S2 COMP9321
+	2014 S2 COMP9336
+birthdate:
+	1964/09/02
+hair_colour:
+	black
+height:
+	1.78m
+name:
+	Keanu Reeves
+degree:
+	Information Technology
+favourite_books:
+	The Girl with the Dragon Tattoo
+	The Alchemist
+	The Hitchhiker's Guide to the Galaxy
+	You Can Heal Your Life
+	The Bridges of Madison County
+	A Wrinkle in Time
+	A Brief History of Time
+	The Secret
+	Life of Pi
+	Goodnight Moon
+password:
+	hockey
+email:
+	K.Reeves@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Family Guy
+	Terra Nova
+	Secrets & Lies
+	Under the Dome
+	Orphan Black
+gender:
+	male

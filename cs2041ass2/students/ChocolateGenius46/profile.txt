@@ -1,0 +1,44 @@
+hair_colour:
+	black
+gender:
+	female
+favourite_TV_shows:
+	The Elephant Princess
+	Breaking Bad
+	Farscape
+	Ja'mie: Private School Girl
+username:
+	ChocolateGenius46
+birthdate:
+	1977/12/17
+favourite_bands:
+	Kingswood
+	The Preatures
+	Haim
+	Flume & Chet Faker
+	The Kite String Tangle
+	Chet Faker
+	Something for Kate
+	The Amity Affliction
+	A$AP Rocky
+password:
+	arsenal
+favourite_books:
+	The Pillars of the Earth
+	Your Erroneous Zones
+	Santa Evita
+	Love Story
+	The Little Prince
+height:
+	1.58m
+email:
+	O.Fedorova@ugrad.unsw.edu.au
+favourite_movies:
+	Men in Black
+weight:
+	57kg
+name:
+	Oxana Fedorova
+favourite_hobbies:
+	Listening to Music
+	Taxidermy

@@ -1,0 +1,43 @@
+courses:
+	2013 S2 COMP9323
+	2013 S2 COMP9444
+height:
+	1.85m
+name:
+	Ronaldo Luis Nazario de Lima
+favourite_TV_shows:
+	Pretty Little Liars
+	How I Met Your Mother
+	Utopia
+	Under the Dome
+username:
+	CoolTiger38
+birthdate:
+	1300/01/01
+hair_colour:
+	red
+gender:
+	male
+favourite_bands:
+	Matt Corby
+	Childish Gambino
+degree:
+	Computer Science
+favourite_movies:
+	Fast Five
+	The Da Vinci Code
+	Pirates of the Caribbean: Dead Man's Chest
+	The Conjuring
+	Man of Steel
+	Ice Age: The Meltdown
+	True Grit
+	Shrek 2
+	The Lord of the Rings: The Fellowship of the Ring
+weight:
+	66kg
+email:
+	R.L.N.de.Lima@ugrad.unsw.edu.au
+favourite_hobbies:
+	Asking Yahoo
+password:
+	jessica

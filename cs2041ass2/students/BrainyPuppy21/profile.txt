@@ -1,0 +1,51 @@
+hair_colour:
+	black
+degree:
+	Engineering/Commerce
+password:
+	david
+height:
+	1.87m
+favourite_bands:
+	RUFUS
+	Illy
+	London Grammar
+	Vampire Weekend
+	Violent Soho
+	Birds of Tokyo
+	Mikhael Paskalev
+	Daft Punk
+	Flight Facilities
+birthdate:
+	1944/12/01
+email:
+	K.Kharrazi@ugrad.unsw.edu.au
+favourite_TV_shows:
+	The Lost World
+	House Husbands
+	Under the Dome
+	Nowhere Boys
+	Rake
+	Farscape
+	Homeland
+	Love Child
+favourite_movies:
+	The Hunger Games
+	The Lion King
+gender:
+	male
+username:
+	BrainyPuppy21
+name:
+	Kamal Kharrazi
+weight:
+	71kg
+courses:
+	2013 S1 ARTS1090
+	2013 S1 ARTS1870
+	2013 S1 ECON1101
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 PHYS1160

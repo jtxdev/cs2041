@@ -1,0 +1,77 @@
+hair_colour:
+	black
+password:
+	danielle
+degree:
+	Software Engineering
+email:
+	S.McClellan@ugrad.unsw.edu.au
+weight:
+	74kg
+height:
+	1.86m
+favourite_books:
+	Discworld
+	Ryoma ga Yuku
+	A Tale of Two Cities
+	Virgin Soil Upturned
+	God's Little Acre
+	You Can Heal Your Life
+	Nineteen Eighty-Four
+	The Wheel of Time
+favourite_bands:
+	Touch Sensitive
+gender:
+	male
+birthdate:
+	1968/02/14
+favourite_TV_shows:
+	Prisoner
+	H2O: Just Add Water
+	Pretty Little Liars
+	Underbelly
+favourite_movies:
+	Shrek the Third
+	The Twilight Saga: Eclipse
+	The Hobbit: The Desolation of Smaug
+	Clash of the Titans
+	Thor: The Dark World
+favourite_hobbies:
+	Housework
+	Video Games
+	Deltiology
+	Foreign language learning
+	Sleeping
+	Cycling
+	LARPing
+	Machining
+name:
+	Scott McClellan
+username:
+	CrazyGeek14
+courses:
+	2011 S2 COMP1917
+	2011 S2 INFS1603
+	2011 S2 MATH1081
+	2011 S2 MATH1131
+	2012 S1 COMP1917
+	2012 S1 ENGG1000
+	2012 S1 MATH1081
+	2012 S1 MATH1131
+	2012 S2 MATH1081
+	2013 S1 COMP2111
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 SENG2011
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2013 S2 SENG2021
+	2014 S1 COMP3121
+	2014 S1 COMP3141
+	2014 S1 COMP3231
+	2014 S1 SENG3011
+	2014 S2 COMP3331
+	2014 S2 COMP9321
+	2014 S2 MATH1231

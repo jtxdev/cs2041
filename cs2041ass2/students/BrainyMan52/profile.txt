@@ -1,0 +1,59 @@
+favourite_bands:
+	Major Lazer
+	Foals
+	Panama
+gender:
+	male
+favourite_hobbies:
+	Leather crafting
+	Roller skating
+	Web surfing
+	Cheerleading
+	Cycling
+	Scrapbooking
+courses:
+	2014 S1 EDST1101
+	2014 S1 MATH1081
+	2014 S1 MATH1131
+	2014 S1 PHYS1121
+	2014 S2 COMP1400
+	2014 S2 EDST1104
+	2014 S2 MATH1231
+	2014 S2 PHYS1160
+name:
+	Filippo Inzaghi
+username:
+	BrainyMan52
+hair_colour:
+	black
+email:
+	F.Inzaghi@ugrad.unsw.edu.au
+favourite_books:
+	No Longer Human
+	Little House on the Prairie
+	The Very Hungry Caterpillar
+	Gone with the Wind
+	The Catcher in the Rye
+	The Dark Tower
+	The Alchemist
+	Dirk Pitt
+birthdate:
+	1973/08/09
+password:
+	buster
+weight:
+	71kg
+degree:
+	Mechanical & Manufacturing Eng
+height:
+	1.81m
+favourite_movies:
+	The Sixth Sense
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Transformers: Dark of the Moon
+	Star Wars
+	Clash of the Titans
+	Transformers
+	Finding Nemo
+	The Karate Kid
+	Casino Royale

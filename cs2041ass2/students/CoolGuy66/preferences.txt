@@ -1,0 +1,14 @@
+gender:
+	female
+weight:
+	min:
+		65kg
+	max:
+		102kg
+hair_colours:
+	red
+age:
+	min:
+		18
+	max:
+		23

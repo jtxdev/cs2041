@@ -1,0 +1,55 @@
+birthdate:
+	1963/08/17
+courses:
+	2014 S1 COMP1911
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S1 PHYS1131
+	2014 S2 COMP1921
+	2014 S2 ELEC1111
+	2014 S2 MATH1131
+favourite_TV_shows:
+	Terra Nova
+	The Slap
+	Ocean Girl
+	The Big Bang Theory
+	Old School
+	Arrow
+favourite_books:
+	A Wrinkle in Time
+	The Outsiders
+	The Eagle Has Landed
+	The Good Soldier
+hair_colour:
+	black
+gender:
+	male
+favourite_movies:
+	Spider-Man
+	The Dark Knight
+degree:
+	Computer Science
+weight:
+	63kg
+favourite_hobbies:
+	Perl programming
+	Jukskei
+	Leather crafting
+height:
+	1.70m
+username:
+	BrainyBoy69
+password:
+	please
+name:
+	Jon Gruden
+favourite_bands:
+	John Butler Trio
+	Dustin Tebbutt
+	Birds of Tokyo
+	Major Lazer
+	Childish Gambino
+	British India
+	Kanye West
+email:
+	J.Gruden@ugrad.unsw.edu.au

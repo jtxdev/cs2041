@@ -1,0 +1,19 @@
+weight:
+	min:
+		80kg
+	max:
+		106kg
+height:
+	min:
+		1.81m
+	max:
+		2.07m
+age:
+	min:
+		18
+	max:
+		27
+gender:
+	male
+hair_colours:
+	red

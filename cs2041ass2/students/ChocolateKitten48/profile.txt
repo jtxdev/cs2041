@@ -1,0 +1,83 @@
+password:
+	member
+favourite_hobbies:
+	Water sports
+	Woodworking
+	Association football
+	Model aircraft making and flying
+	Dowsing
+	Drama
+	Camping
+birthdate:
+	1973/06/01
+username:
+	ChocolateKitten48
+weight:
+	56kg
+favourite_bands:
+	Big Scary
+favourite_movies:
+	The Karate Kid
+	Godzilla
+	Ice Age: Dawn of the Dinosaurs
+	Man of Steel
+	Pirates of the Caribbean: At World's End
+	The Dark Knight
+	The Lost World: Jurassic Park
+	The Amazing Spider-Man
+	Tangled
+favourite_books:
+	The Catcher in the Rye
+	The Poky Little Puppy
+	The Celestine Prophecy
+	And Then There Were None
+	Fear Street
+	Tuesdays with Morrie
+	The Gospel According to Peanuts
+courses:
+	2012 S1 ARTS1630
+	2012 S1 COMP1917
+	2012 S1 MATH1081
+	2012 S2 COMP1927
+	2012 S2 ENGG1000
+	2012 S2 MATH1231
+	2012 S2 SENG1031
+	2013 X1 COMP1927
+	2013 X1 MATH1231
+	2013 S1 COMP2111
+	2013 S1 COMP2911
+	2013 S1 MATH1081
+	2013 S1 SENG2011
+	2013 S2 ARTS1631
+	2013 S2 MATH2400
+	2013 S2 SENG2021
+	2014 S1 ARTS1660
+	2014 S1 COMP2121
+	2014 S1 SENG3011
+	2014 S2 ARTS2301
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+	2014 S2 MATH2400
+	2014 S2 MATH2859
+favourite_TV_shows:
+	True Detective
+	Summer Heights High
+	Packed to the Rafters
+	Orphan Black
+	Dexter
+	Bergerac
+	Jonah from Tonga
+	South Park
+	Farscape
+name:
+	Heidi Klum
+degree:
+	Bioinformatics/Biomed Eng
+hair_colour:
+	brown
+height:
+	1.79m
+email:
+	H.Klum@ugrad.unsw.edu.au
+gender:
+	female

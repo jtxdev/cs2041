@@ -1,0 +1,58 @@
+courses:
+	2012 S1 COMP1917
+	2012 S1 MATH1081
+	2012 S1 MATH1141
+	2013 S1 ARTS1630
+	2013 S1 ECON1101
+	2013 S1 ECON1203
+	2013 S2 ARTS1631
+	2013 S2 COMP1927
+	2013 S2 MATH1231
+	2014 S1 ARTS2630
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 COMP3511
+birthdate:
+	1972/09/27
+name:
+	Gwyneth Paltrow
+favourite_TV_shows:
+	Doctor Who
+	How I Met Your Mother
+	Wonderland
+	Old School
+	Ocean Girl
+	Futurama
+	H2O: Just Add Water
+	Danger 5
+	Under The Dome
+password:
+	zxcvbnm
+weight:
+	67kg
+username:
+	CoolKitten24
+hair_colour:
+	black
+gender:
+	female
+favourite_hobbies:
+	Acting
+	Golf
+	Antiquities
+	Ice hockey
+	Foraging
+	Origami
+height:
+	1.58m
+favourite_bands:
+	Bliss N Eso
+degree:
+	Information Technology
+favourite_movies:
+	Harry Potter and the Half-Blood Prince
+	World War Z
+	The Dark Knight Rises
+	Shrek the Third
+email:
+	G.Paltrow@ugrad.unsw.edu.au

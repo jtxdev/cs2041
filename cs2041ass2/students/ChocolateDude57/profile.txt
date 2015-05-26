@@ -1,0 +1,70 @@
+favourite_books:
+	The Baby-sitters Club
+	What to Expect When You're Expecting
+	Love You Forever
+	The Giver
+	Man's Search for Meaning
+username:
+	ChocolateDude57
+favourite_TV_shows:
+	Family Guy
+	Wonderland
+height:
+	1.74m
+favourite_bands:
+	Chvrches
+	Haim
+	The Preatures
+	MS MR
+	John Butler Trio
+	Vampire Weekend
+	Max Frost
+	London Grammar
+	Foals
+name:
+	Mike Weir
+hair_colour:
+	red
+degree:
+	Information Technology
+favourite_movies:
+	Little Fockers
+	Spider-Man 3
+	Indiana Jones and the Kingdom of the Crystal Skull
+	The Matrix Reloaded
+	The Lion King
+	Transformers: Revenge of the Fallen
+courses:
+	2013 S1 ARCH1101
+	2013 S1 ARCH1142
+	2013 S1 ARCH1161
+	2013 S1 BENV1080
+	2013 S2 ARTS1361
+	2013 S2 COMP1917
+	2013 S2 ENGG1000
+	2013 S2 MATH1131
+	2014 X1 COMP1927
+	2014 X1 MATH1231
+	2014 S1 COMP2911
+	2014 S1 MATH1081
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+	2014 S2 COMP3421
+	2014 S2 COMP3511
+birthdate:
+	1970/05/12
+favourite_hobbies:
+	Listening to Music
+	Perl programming
+	Water sports
+	Brazilian jiu-jitsu
+	Vintage clothing
+	Billiards
+	Church Activities
+	Watching Sports
+email:
+	M.Weir@ugrad.unsw.edu.au
+password:
+	viking
+gender:
+	male

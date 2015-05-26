@@ -1,0 +1,73 @@
+height:
+	1.71m
+favourite_books:
+	Catch-22
+favourite_TV_shows:
+	Packed to the Rafters
+	A Country Practice
+	Modern Family
+	Elementary
+	The Black Adder
+	How I Met Your Mother
+	Heartbreak High
+birthdate:
+	1977/04/14
+weight:
+	56kg
+favourite_bands:
+	Touch Sensitive
+	Violent Soho
+	Remi
+	Grouplove
+	James Blake
+	Empire of the Sun
+	The Wombats
+	Childish Gambino
+	Lana Del Rey
+	John Newman
+favourite_hobbies:
+	Drama
+	Lapidary
+	Insect collecting
+	Skydiving
+	Acting
+	Computer
+	Creative writing
+	Cleaning
+	Water sports
+courses:
+	2013 S1 COMP1917
+	2013 S1 ENGG1000
+	2013 S1 MATH1081
+	2013 S1 MATH1141
+	2013 S2 MATH1231
+	2013 S2 SENG1031
+	2014 X1 COMP1927
+	2014 S1 ARTS1570
+	2014 S1 COMP2111
+	2014 S1 SENG2011
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+	2014 S2 MATH2400
+	2014 S2 MATH2859
+	2014 S2 SENG2021
+password:
+	scooby
+gender:
+	female
+username:
+	CoolKitten14
+degree:
+	Software Engineering
+name:
+	Sarah Michelle Gellar
+hair_colour:
+	black
+favourite_movies:
+	Men in Black
+	The Twilight Saga: Breaking Dawn Part 1
+	Madagascar: Escape 2 Africa
+	Transformers
+	Ted
+email:
+	S.M.Gellar@ugrad.unsw.edu.au

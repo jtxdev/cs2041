@@ -1,0 +1,64 @@
+courses:
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S1 MATS1101
+	2014 S1 PHYS1121
+	2014 S2 COMP1917
+	2014 S2 GEOS3321
+	2014 S2 MATH1231
+	2014 S2 MMAN1300
+favourite_movies:
+	The Hunger Games: Catching Fire
+	Ice Age: Dawn of the Dinosaurs
+	The Incredibles
+	Harry Potter and the Deathly Hallows Part 1
+	The Da Vinci Code
+	Star Wars: Episode II - Attack of the Clones
+	MIB 3
+favourite_hobbies:
+	Electronics
+	Boxing
+	Puzzles
+	Skiing
+	Playing Musical Instruments
+	Boating
+	Water sports
+	Writing
+password:
+	steve
+favourite_bands:
+	Vance Joy
+	Kingswood
+	Dustin Tebbutt
+	Lana Del Rey
+	London Grammar
+	Two Door Cinema Club
+	Horrorshow
+birthdate:
+	1943/11/15
+degree:
+	Information Technology
+hair_colour:
+	blonde
+weight:
+	72kg
+email:
+	A.Losyukov@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Orphan Black
+	H2O: Just Add Water
+	Hemlock Grove
+	Blue Heelers
+	MASH
+	McLeod's Daughters
+	How I Met Your Mother
+	Homeland
+	Boardwalk Empire
+username:
+	CoolGeek62
+gender:
+	male
+name:
+	Alexander Losyukov
+height:
+	1.70m

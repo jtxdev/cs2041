@@ -1,0 +1,41 @@
+favourite_books:
+	Rich Dad, Poor Dad
+favourite_bands:
+	Busta Rhymes
+	Violent Soho
+	Goldroom
+	San Cisco
+	Arcade Fire
+	London Grammar
+	Horrorshow
+	Cloud Control
+	British India
+hair_colour:
+	brown
+email:
+	A.Baldwin@ugrad.unsw.edu.au
+username:
+	CreativeGeek61
+name:
+	Alec Baldwin
+height:
+	1.82m
+weight:
+	80kg
+gender:
+	male
+degree:
+	Information Technology
+favourite_movies:
+	Star Wars: Episode I - The Phantom Menace
+	Transformers: Revenge of the Fallen
+	Les Miserables
+password:
+	george
+birthdate:
+	1958/04/03
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 GSOE9820

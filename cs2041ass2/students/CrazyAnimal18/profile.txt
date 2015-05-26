@@ -1,0 +1,55 @@
+email:
+	R.Virenque@ugrad.unsw.edu.au
+favourite_movies:
+	Star Wars
+	Spider-Man 3
+	Shrek 2
+	Kung Fu Panda
+	Ratatouille
+	Harry Potter and the Order of the Phoenix
+	Transformers: Revenge of the Fallen
+	Spider-Man 2
+	Star Wars: Episode I - The Phantom Menace
+favourite_bands:
+	Lorde
+degree:
+	Information Technology
+birthdate:
+	1969/11/19
+height:
+	1.76m
+gender:
+	male
+password:
+	joshua
+favourite_hobbies:
+	Traveling
+	Theater
+	RC cars
+	Bridge
+	Kart racing
+hair_colour:
+	blonde
+name:
+	Richard Virenque
+username:
+	CrazyAnimal18
+favourite_books:
+	Heidi's Years of Learning and Travel
+	The Purpose Driven Life
+	The Godfather
+	Kagaku no album
+	Sophie's World
+	A Song of Ice and Fire
+courses:
+	2014 S1 CHEM1011
+	2014 S1 ENGG1000
+	2014 S1 PHYS1121
+	2014 S2 COMP1917
+	2014 S2 GENY0002
+	2014 S2 MATH1231
+	2014 S2 MMAN1300
+weight:
+	67kg
+favourite_TV_shows:
+	Camp

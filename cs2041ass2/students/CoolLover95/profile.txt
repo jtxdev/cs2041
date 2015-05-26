@@ -1,0 +1,65 @@
+email:
+	R.Zellweger@ugrad.unsw.edu.au
+username:
+	CoolLover95
+favourite_bands:
+	Kanye West
+	The Amity Affliction
+	Violent Soho
+	Daft Punk
+	Birds of Tokyo
+	Bliss N Eso
+	San Cisco
+	James Blake
+	Haim
+	Grouplove
+gender:
+	female
+favourite_movies:
+	Harry Potter and the Half-Blood Prince
+	The Heat
+	The Lion King
+	War of the Worlds
+	22 Jump Street
+courses:
+	2014 S1 ARTS1361
+	2014 S1 COMP1927
+	2014 S1 MATH1081
+	2014 S1 MATH1141
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+	2014 S2 MATH1231
+	2012 S1 COMP1917
+height:
+	1.64m
+password:
+	696969
+favourite_hobbies:
+	Crafts
+	Embroidery
+	Camping
+	Mountain biking
+	Indoors
+	Family Time
+	Model Building
+weight:
+	65kg
+name:
+	Renee Zellweger
+favourite_TV_shows:
+	NCIS
+	Pretty Little Liars
+	Under the Dome
+	Suits
+	All Saints
+	Neighbours
+	Elementary
+	Breaking Bad
+	Puberty Blues
+	Arrow
+hair_colour:
+	brown
+birthdate:
+	1969/04/25
+degree:
+	Mechatronic Eng/Biomedical Eng

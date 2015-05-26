@@ -1,0 +1,63 @@
+favourite_books:
+	Magic Tree House series
+	Rainbow Magic
+	The Gospel According to Peanuts
+	The Eagle Has Landed
+	Fifty Shades of Grey
+favourite_movies:
+	The Matrix Reloaded
+	Spider-Man 2
+	Spider-Man 3
+	Tangled
+	The Lord of the Rings: The Fellowship of the Ring
+hair_colour:
+	brown
+password:
+	mustang
+height:
+	1.71m
+username:
+	CoolAnimal97
+favourite_hobbies:
+	Video game collecting
+	Skimboarding
+	Computer Games
+	Coin collecting
+email:
+	S.V.D.Mello@ugrad.unsw.edu.au
+birthdate:
+	11/01/1986
+gender:
+	male
+name:
+	Sergio Vieira De Mello
+degree:
+	Computer Science
+favourite_bands:
+	Cloud Control
+	Lana Del Rey
+	John Newman
+	Birds of Tokyo
+	The Preatures
+	Busta Rhymes
+favourite_TV_shows:
+	NCIS
+	Miss Fisher's Murder Mysteries
+	Prisoner
+	Puberty Blues
+courses:
+	2013 S1 COMP1917
+	2013 S1 ENGG1000
+	2013 S2 COMP1927
+	2013 S2 ECON1101
+	2013 S2 MATH1231
+	2013 S2 SENG1031
+	2014 S1 COMP2111
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 SENG2011
+	2014 S2 COMP2041
+	2014 S2 MATH2400
+	2014 S2 MATH2859
+	2014 S2 MGMT1001
+	2014 S2 SENG2021

@@ -1,0 +1,59 @@
+favourite_bands:
+	Empire of the Sun
+gender:
+	female
+degree:
+	Computer Science and Eng
+favourite_books:
+	The Cat in the Hat
+	Kane and Abel
+	The Lord of the Rings
+	You Can Heal Your Life
+	Harry Potter and the Deathly Hallows
+	The Railway Series
+favourite_TV_shows:
+	A Country Practice
+	Futurama
+	Upper Middle Bogan
+	Home and Away
+	NCIS
+	Nowhere Boys
+	Rush
+	How I Met Your Mother
+favourite_movies:
+	The Heat
+	Harry Potter and the Deathly Hallows Part 1
+	Forrest Gump
+	The Sixth Sense
+birthdate:
+	1974/04/28
+height:
+	1.57m
+courses:
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S1 MATS1101
+	2014 S1 PHYS1121
+	2014 S2 COMP1917
+	2014 S2 CVEN1300
+	2014 S2 ELEC1111
+	2014 S2 MATH1231
+name:
+	Penelope Cruz
+hair_colour:
+	blonde
+password:
+	iwantu
+email:
+	P.Cruz@ugrad.unsw.edu.au
+favourite_hobbies:
+	Origami
+	Surfing
+	Dance
+	Creative writing
+	LARPing
+	Rafting
+	Coding
+	Dating Online
+username:
+	CoolWoman28

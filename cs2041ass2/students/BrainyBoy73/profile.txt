@@ -1,0 +1,47 @@
+favourite_TV_shows:
+	Doctor Who
+	Old School
+	Wonderland
+	All Saints
+favourite_bands:
+	Andy Bull
+	The National
+	Kingswood
+	The Kite String Tangle
+	Matt Corby
+	British India
+	Dillon Francis
+	Rudimental
+	SAFIA
+username:
+	BrainyBoy73
+name:
+	Lucio Gutierrez
+height:
+	1.84m
+hair_colour:
+	black
+weight:
+	66kg
+favourite_hobbies:
+	Wood carving
+	Cryptography
+	Laser tag
+gender:
+	male
+favourite_books:
+	Watership Down
+	The Alchemist
+password:
+	hockey
+birthdate:
+	1957/03/23
+email:
+	L.Gutierrez@ugrad.unsw.edu.au
+favourite_movies:
+	Maleficent
+	The Matrix Reloaded
+	The Da Vinci Code
+	The Conjuring
+	Fast & Furious 6
+	Spider-Man

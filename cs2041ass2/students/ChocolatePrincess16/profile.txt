@@ -1,0 +1,55 @@
+name:
+	Donatella Versace
+favourite_bands:
+	Grouplove
+	Flume & Chet Faker
+	Birds of Tokyo
+	London Grammar
+	Fatboy Slim & Riva Starr
+	Matt Corby
+courses:
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S2 COMP9024
+	2014 S2 COMP9331
+	2014 S2 COMP9511
+	2014 S2 GSOE9820
+password:
+	rabbit
+height:
+	1.73m
+username:
+	ChocolatePrincess16
+favourite_TV_shows:
+	Packed to the Rafters
+	The Doctor Blake Mysteries
+	American Horror Story
+	South Park
+	Teen Wolf
+weight:
+	60kg
+gender:
+	female
+email:
+	D.Versace@ugrad.unsw.edu.au
+degree:
+	Architectural Computing
+favourite_hobbies:
+	Rock stacking
+	Sleeping
+	Singing
+	Bicycling
+	LARPing
+	Figure skating
+	Baseball
+	Letterboxing
+favourite_movies:
+	Indiana Jones and the Kingdom of the Crystal Skull
+	The Passion of the Christ
+	The Amazing Spider-Man 2
+	Mission: Impossible - Ghost Protocol
+	Godzilla
+	Star Trek Into Darkness
+	Up
+birthdate:
+	1955/05/02

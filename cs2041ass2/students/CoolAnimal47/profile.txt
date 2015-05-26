@@ -1,0 +1,53 @@
+password:
+	gators
+email:
+	P.Bremer@ugrad.unsw.edu.au
+favourite_hobbies:
+	Sleeping
+	Outdoors
+hair_colour:
+	red
+birthdate:
+	1941/09/30
+favourite_books:
+	The Revolt of Mamie Stover
+	Harry Potter and the Order of the Phoenix
+	Santa Evita
+	Life of Pi
+	Chicken Soup for the Soul
+	Dune
+	No Longer Human
+	A Tale of Two Cities
+	Man's Search for Meaning
+favourite_movies:
+	E.T.: The Extra-Terrestrial
+	The Passion of the Christ
+	Avatar
+	Maleficent
+	Teenage Mutant Ninja Turtles
+	The Dark Knight
+	Despicable Me 2
+	Snow White and the Huntsman
+	Casino Royale
+	Kung Fu Panda
+favourite_bands:
+	Disclosure
+	Touch Sensitive
+degree:
+	Electrical Engineering
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S2 COMP1927
+	2014 S2 ELEC1111
+	2014 S2 MATH1231
+	2014 S2 PHYS1231
+username:
+	CoolAnimal47
+name:
+	Paul Bremer
+height:
+	1.90m
+gender:
+	male

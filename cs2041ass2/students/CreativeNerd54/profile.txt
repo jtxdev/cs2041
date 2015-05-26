@@ -1,0 +1,59 @@
+birthdate:
+	1971/07/19
+height:
+	1.75m
+degree:
+	Computer Science and Eng
+email:
+	V.Klitschko@ugrad.unsw.edu.au
+favourite_books:
+	Harry Potter and the Deathly Hallows
+	The Purpose Driven Life
+password:
+	blondes
+favourite_hobbies:
+	Jewelry making
+	Sculpting
+	Leather crafting
+	Debugging
+favourite_TV_shows:
+	The Code
+	NCIS
+	Elementary
+username:
+	CreativeNerd54
+favourite_bands:
+	Vampire Weekend
+	Two Door Cinema Club
+	The Wombats
+	Kingswood
+	Touch Sensitive
+	Violent Soho
+name:
+	Vitali Klitschko
+gender:
+	male
+hair_colour:
+	black
+courses:
+	2013 S2 COMP9020
+	2013 S2 COMP9021
+	2013 S2 COMP9311
+	2014 S1 COMP9334
+	2014 S1 COMP9441
+	2014 S1 INFS5885
+	2014 S2 COMP9321
+	2014 S2 COMP9331
+	2014 S2 COMP9511
+	2014 S2 GSOE9210
+weight:
+	66kg
+favourite_movies:
+	E.T.: The Extra-Terrestrial
+	Iron Man 2
+	Marvel's The Avengers
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	Harry Potter and the Prisoner of Azkaban
+	Lincoln
+	Star Wars: Episode I - The Phantom Menace
+	The Incredibles

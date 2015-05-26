@@ -1,0 +1,52 @@
+weight:
+	59kg
+hair_colour:
+	brown
+favourite_movies:
+	Toy Story 3
+	The Amazing Spider-Man
+	American Hustle
+	Pirates of the Caribbean: Dead Man's Chest
+courses:
+	2014 S1 COMP3121
+	2014 S1 COMP3441
+	2014 S1 COMP9318
+	2014 S2 COMP3161
+	2014 S2 COMP3511
+	2014 S2 INFS3631
+name:
+	Kate Winslet
+favourite_bands:
+	Chvrches
+	Daft Punk
+	John Newman
+favourite_hobbies:
+	Yo-yoing
+	Writing
+	Bicycling
+	Darts
+	Net Ball
+	Sewing
+	Roller skating
+favourite_TV_shows:
+	McLeod's Daughters
+	Seinfeld
+	Doctor Who
+	Elementary
+	Camp
+	Miss Fisher's Murder Mysteries
+	Under the Dome
+email:
+	K.Winslet@ugrad.unsw.edu.au
+username:
+	AwesomeWoman76
+gender:
+	female
+degree:
+	Information Technology
+height:
+	1.74m
+birthdate:
+	1975/10/05
+password:
+	florida

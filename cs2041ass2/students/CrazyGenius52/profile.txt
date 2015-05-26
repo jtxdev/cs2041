@@ -1,0 +1,39 @@
+email:
+	E.Hurley@ugrad.unsw.edu.au
+name:
+	Elizabeth Hurley
+favourite_movies:
+	Lincoln
+password:
+	mustang
+gender:
+	female
+favourite_TV_shows:
+	A Country Practice
+	Home and Away
+	Rush
+	American Dad
+favourite_books:
+	Left Behind
+	Anne of Green Gables
+favourite_hobbies:
+	Dating Online
+	Crafts
+	Vintage Books
+hair_colour:
+	black
+height:
+	1.58m
+birthdate:
+	1965/06/10
+weight:
+	59kg
+favourite_bands:
+	London Grammar
+	Chet Faker
+	Empire of the Sun
+	James Blake
+	Flume & Chet Faker
+	Bloc Party
+username:
+	CrazyGenius52

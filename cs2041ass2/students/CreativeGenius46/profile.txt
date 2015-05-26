@@ -1,0 +1,61 @@
+favourite_books:
+	Charlotte's Web
+	Millennium Trilogy
+	Life After Life
+	The Secret
+	The Kite Runner
+	Harry Potter and the Order of the Phoenix
+	Sweet Valley High
+	You Can Heal Your Life
+	In His Steps: What Would Jesus Do?
+email:
+	D.Schroeder@ugrad.unsw.edu.au
+height:
+	1.62m
+courses:
+	2012 S2 COMP1927
+	2012 S2 ECON1203
+	2012 S2 GMAT1110
+	2012 S2 GMAT4910
+	2013 S1 COMP2911
+	2013 S1 COMP3331
+	2013 S1 COMP3441
+	2013 S1 GENT0508
+	2013 S2 ACCT1501
+	2013 S2 COMP2041
+	2013 S2 MATH1081
+	2014 X1 ARTS2458
+	2014 S1 COMP2911
+	2014 S1 COMP3231
+	2014 S2 COMP3222
+	2014 S2 COMP4336
+	2014 S2 COMP4920
+password:
+	tigers
+username:
+	CreativeGenius46
+favourite_bands:
+	Mikhael Paskalev
+	Lana Del Rey
+	Lorde
+	The Wombats
+name:
+	Doris Schroeder
+gender:
+	female
+favourite_TV_shows:
+	Rake
+	Seinfeld
+	True Blood
+	Dexter
+	True Detective
+	The Block Sky High
+	Under the Dome
+weight:
+	65kg
+hair_colour:
+	black
+birthdate:
+	05/02/1975
+degree:
+	Information Technology

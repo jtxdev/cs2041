@@ -1,0 +1,15 @@
+age:
+	min:
+		18
+	max:
+		24
+gender:
+	female
+hair_colours:
+	black
+	brown
+weight:
+	min:
+		56kg
+	max:
+		71kg

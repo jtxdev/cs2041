@@ -1,0 +1,66 @@
+degree:
+	Information Technology
+favourite_books:
+	How the Steel Was Tempered
+	The Power of Positive Thinking
+	The Alchemist
+	Peter Rabbit
+	The Diary of a Young Girl, The Diary of Anne Frank
+courses:
+	2013 S1 COMP1917
+	2013 S1 MATH1131
+	2013 S1 PHYS1131
+	2013 S2 ELEC1111
+	2013 S2 MATH1231
+	2013 S2 PHYS1231
+	2014 X1 ECON1101
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 ELEC2134
+	2014 S1 MATH2069
+	2014 S2 COMP3222
+password:
+	kelly
+birthdate:
+	1982/10/13
+favourite_movies:
+	Captain America: The Winter Soldier
+	Ted
+	Harry Potter and the Chamber of Secrets
+	Ratatouille
+	The Matrix Reloaded
+	Brave
+	X-Men: Days of Future Past
+hair_colour:
+	brown
+name:
+	Ian Thorpe
+favourite_bands:
+	Haim
+	James Blake
+	Grouplove
+	The Preatures
+	Touch Sensitive
+	Dustin Tebbutt
+	Bloc Party
+	RUFUS
+	Dillon Francis
+	Robert DeLong
+email:
+	I.Thorpe@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Sea Patrol
+	Dance Academy
+	South Park
+username:
+	AwesomeNinja22
+height:
+	1.92m
+favourite_hobbies:
+	Web surfing
+	Touch football
+	Golf
+	Bicycling
+	Model Building
+gender:
+	male

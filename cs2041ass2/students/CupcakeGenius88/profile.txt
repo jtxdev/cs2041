@@ -1,0 +1,48 @@
+favourite_hobbies:
+	Playing Cards
+	Birdwatching
+	Exercise
+	Art collecting
+	Coin collecting
+	Listening to Music
+	Theater
+	Sailing
+birthdate:
+	1975/12/26
+gender:
+	male
+favourite_bands:
+	The Kite String Tangle
+hair_colour:
+	black
+username:
+	CupcakeGenius88
+favourite_TV_shows:
+	All Saints
+	Blue Heelers
+	Puberty Blues
+	Prisoner
+	The Big Bang Theory
+	Teen Mom
+	The Slap
+	The Saddle Club
+weight:
+	74kg
+password:
+	yamaha
+email:
+	M.Rios@ugrad.unsw.edu.au
+name:
+	Marcelo Rios
+favourite_movies:
+	Star Wars: Episode III - Revenge of the Sith
+	The Hunger Games: Catching Fire
+	We're the Millers
+	Madagascar 3: Europe's Most Wanted
+	Grown Ups
+	The Karate Kid
+	Titanic
+	The Hobbit: The Desolation of Smaug
+	Harry Potter and the Deathly Hallows Part 1
+height:
+	1.99m

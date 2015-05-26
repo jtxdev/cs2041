@@ -1,0 +1,69 @@
+weight:
+	68kg
+password:
+	shannon
+favourite_TV_shows:
+	MASH
+	Camp
+	The Walking Dead
+	Hamish & Andy's Gap Year Asia
+	Breaking Bad
+	Ocean Girl
+	The Doctor Blake Mysteries
+	Vikings
+	Love Child
+	Rake
+favourite_books:
+	Things Fall Apart
+	Santa Evita
+	Who Moved My Cheese?
+username:
+	BrainyTiger33
+email:
+	R.Romano@ugrad.unsw.edu.au
+name:
+	Ray Romano
+favourite_bands:
+	Chet Faker
+	Something for Kate
+	Lorde
+	Chvrches
+	Daft Punk
+favourite_hobbies:
+	Lacemaking
+	Snooker
+	American football
+	Embroidery
+	Go
+degree:
+	Software Engineering
+hair_colour:
+	black
+gender:
+	male
+courses:
+	2013 S1 COMP2121
+	2013 S1 MATH1081
+	2013 S1 MATH1141
+	2013 S2 COMP1927
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2014 S1 COMP2911
+	2014 S1 COMP3821
+	2014 S1 COMP9447
+	2014 S2 COMP9315
+	2010 S1 COMP1917
+favourite_movies:
+	Dawn of the Planet of the Apes
+	Rise of the Planet of the Apes
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Harry Potter and the Prisoner of Azkaban
+	The LEGO Movie
+	Spider-Man
+	The Hobbit: The Desolation of Smaug
+	Fast & Furious 6
+	Captain America: The First Avenger
+birthdate:
+	1957/12/21
+height:
+	1.81m

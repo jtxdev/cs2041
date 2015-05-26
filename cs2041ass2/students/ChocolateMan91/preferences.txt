@@ -1,0 +1,5 @@
+gender:
+	female
+hair_colours:
+	blonde
+	red

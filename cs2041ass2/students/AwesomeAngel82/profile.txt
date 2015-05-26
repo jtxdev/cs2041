@@ -1,0 +1,69 @@
+favourite_hobbies:
+	Roller skating
+	Drawing
+	Electronics
+	Poker
+	Snowboarding
+	LARPing
+	Crocheting
+	Shell scripting
+	Rock stacking
+username:
+	AwesomeAngel82
+password:
+	mark
+height:
+	1.70m
+hair_colour:
+	black
+favourite_TV_shows:
+	Secrets & Lies
+courses:
+	2012 S1 COMP1917
+	2012 S1 ENGG1000
+	2012 S1 MATH1081
+	2012 S1 MATH1131
+	2012 S2 COMP1927
+	2012 S2 ELEC1111
+	2012 S2 INFS1609
+	2012 S2 MATH1231
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 FINS1612
+	2013 S2 COMP2041
+	2013 S2 COMP3171
+	2013 S2 COMP3511
+	2013 S2 MATH3411
+	2014 S1 COMP3121
+	2014 S1 COMP3141
+	2014 S1 COMP3231
+	2014 S2 COMP3161
+	2014 S2 COMP3421
+	2014 S2 COMP4336
+	2014 S2 COMP4920
+birthdate:
+	1968/02/01
+email:
+	L.M.Presley@ugrad.unsw.edu.au
+gender:
+	female
+favourite_movies:
+	Sherlock Holmes: A Game of Shadows
+	Inception
+	Quantum of Solace
+	Tron Legacy
+	Despicable Me
+	Tangled
+favourite_books:
+	The Lion, the Witch and the Wardrobe
+	Nineteen Eighty-Four
+favourite_bands:
+	Robert DeLong
+	Two Door Cinema Club
+	Arcade Fire
+	Arctic Monkeys
+	The Preatures
+degree:
+	Exchange Program
+name:
+	Lisa Marie Presley

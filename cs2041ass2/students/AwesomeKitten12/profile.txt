@@ -1,0 +1,73 @@
+birthdate:
+	1986/04/03
+weight:
+	56kg
+favourite_hobbies:
+	Playing Cards
+	Billiards
+	Python programming
+	Table football
+	Dancing
+	Water sports
+	Cryptography
+password:
+	florida
+favourite_movies:
+	How to Train Your Dragon
+	Indiana Jones and the Kingdom of the Crystal Skull
+	Grown Ups
+	Captain America: The Winter Soldier
+	Finding Nemo
+	Harry Potter and the Half-Blood Prince
+	The Matrix Reloaded
+email:
+	A.Bynes@ugrad.unsw.edu.au
+degree:
+	Engineering
+favourite_bands:
+	SAFIA
+	Lana Del Rey
+	Rudimental
+	Illy
+	The Kite String Tangle
+	Lorde
+	Chvrches
+	Arctic Monkeys
+username:
+	AwesomeKitten12
+favourite_books:
+	The Good Soldier
+	The Godfather
+	Tuesdays with Morrie
+	The Inheritance Cycle
+	A Brief History of Time
+	The Lord of the Rings
+	Santa Evita
+	Uncle Styopa
+hair_colour:
+	black
+gender:
+	female
+favourite_TV_shows:
+	60 Minutes
+	Secrets & Lies
+	Underbelly Squizzy launch
+	Teen Mom
+	The Saddle Club
+	Family Guy
+courses:
+	2012 S1 MATH1081
+	2012 S2 COMP1927
+	2013 S1 COMP2911
+	2013 S2 COMP2041
+	2014 X1 PHYS1110
+	2014 S1 COMP9318
+	2014 S1 COMP9319
+	2014 S2 COMP3331
+	2014 S2 COMP4920
+	2014 S2 COMP9315
+	2014 S2 INFS1602
+name:
+	Amanda Bynes
+height:
+	1.72m

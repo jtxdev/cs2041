@@ -1,0 +1,59 @@
+gender:
+	female
+degree:
+	Software Engineering
+name:
+	Stockard Channing
+favourite_movies:
+	Star Wars: Episode II - Attack of the Clones
+	Titanic
+	Toy Story 3
+birthdate:
+	1944/02/13
+favourite_books:
+	How the Steel Was Tempered
+	In His Steps: What Would Jesus Do?
+	Harry Potter and the Philosopher's Stone
+	Jack Reacher
+	The Girl with the Dragon Tattoo
+	Where the Wild Things Are
+	Think and Grow Rich
+	Uncle Styopa
+	The Godfather
+	Things Fall Apart
+courses:
+	2012 S1 COMP1917
+	2012 S1 ENGG1000
+	2012 S2 COMP1927
+	2012 S2 MATH1081
+	2012 S2 MATH1131
+	2013 X1 MATH1231
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 COMP3331
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 COMP4336
+	2013 S2 GENC3004
+	2014 S1 COMP3121
+	2014 S1 COMP3891
+	2014 S1 COMP9321
+	2014 S2 COMP3421
+	2014 S2 COMP4920
+	2014 S2 COMP6771
+	2014 S2 COMP9322
+username:
+	CoolTiger31
+height:
+	1.61m
+favourite_hobbies:
+	Gardening
+hair_colour:
+	black
+email:
+	S.Channing@ugrad.unsw.edu.au
+password:
+	teresa
+favourite_TV_shows:
+	Underbelly
+	Nowhere Boys

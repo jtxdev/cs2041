@@ -1,0 +1,93 @@
+courses:
+	2009 S1 ACCT1501
+	2009 S1 ECON1101
+	2009 S1 ECON1202
+	2009 S1 INFS1602
+	2009 S2 ACCT1511
+	2009 S2 ECON1102
+	2009 S2 ECON1203
+	2009 S2 FINS1613
+	2010 S1 ACCT2522
+	2010 S1 ARTS1361
+	2010 S1 MGMT2725
+	2010 S2 ACCT2542
+	2010 S2 ARTS1362
+	2010 S2 ECON2105
+	2010 S2 LEGT1710
+	2011 S1 ACCT3563
+	2011 S1 ECON2112
+	2011 S1 STRE3001
+	2011 S2 ACCT3583
+	2011 S2 ARTS2371
+	2011 S2 MARK1014
+	2011 S2 MGMT2200
+	2012 S1 ARTS2367
+	2012 S1 ECON2206
+	2012 S2 ACCT3585
+	2012 S2 ARTS3366
+	2012 S2 ARTS3372
+	2013 S1 ARTS1360
+	2013 S1 ARTS3374
+	2013 S1 COMP1917
+	2013 S1 ECON3121
+	2014 S1 COMP9020
+	2014 S1 COMP9021
+	2014 S1 COMP9814
+	2014 S2 COMP9024
+	2014 S2 COMP9331
+	2014 S2 COMP9511
+name:
+	Luis Gonzalez Macchi
+username:
+	CoolBadboy34
+password:
+	cookie
+favourite_movies:
+	Jurassic Park
+	Star Wars: Episode III - Revenge of the Sith
+	Marvel's The Avengers
+	Spider-Man 3
+	Pirates of the Caribbean: At World's End
+favourite_hobbies:
+	Video game collecting
+	Painting
+	Tai Chi
+	Seaglass collecting
+	Scuba Diving
+	Woodworking
+	Debugging
+	Ice hockey
+	Polo
+	Relaxing
+favourite_bands:
+	Birds of Tokyo
+	Violent Soho
+	Dustin Tebbutt
+	Thundamentals
+	Panama
+	The Wombats
+	Rudimental
+	Max Frost
+hair_colour:
+	blonde
+favourite_TV_shows:
+	Downton Abbey
+	Game of Thrones
+	Ja'mie: Private School Girl
+	Underbelly
+	The Black Adder
+height:
+	1.66m
+degree:
+	Computer Science
+weight:
+	71kg
+gender:
+	male
+favourite_books:
+	The Hite Report
+	The Good Soldier
+email:
+	L.G.Macchi@ugrad.unsw.edu.au
+birthdate:
+	1947/12/13

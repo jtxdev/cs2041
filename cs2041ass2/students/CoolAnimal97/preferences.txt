@@ -1,0 +1,14 @@
+weight:
+	min:
+		53kg
+	max:
+		80kg
+age:
+	min:
+		18
+	max:
+		22
+gender:
+	female
+hair_colours:
+	blonde

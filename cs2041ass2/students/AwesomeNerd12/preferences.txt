@@ -1,0 +1,10 @@
+hair_colours:
+	black
+	blonde
+age:
+	min:
+		18
+	max:
+		24
+gender:
+	male

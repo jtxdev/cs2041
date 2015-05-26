@@ -1,0 +1,63 @@
+favourite_TV_shows:
+	Doctor Who
+	Sunday Night
+	The Slap
+	Game of Thrones
+	Dexter
+	Breaking Bad
+	Prisoner
+favourite_books:
+	The Old Man and the Sea
+	The Hardy Boys
+	The Happy Hooker: My Own Story
+favourite_hobbies:
+	Gardening
+	Yoga
+	Couponing
+	Going to Movies
+	Lapidary
+	Dowsing
+	Airsoft
+favourite_movies:
+	Shrek 2
+	How to Train Your Dragon 2
+	Monsters University
+	Finding Nemo
+	Snow White and the Huntsman
+gender:
+	male
+weight:
+	68kg
+degree:
+	Information Technology
+password:
+	xxxx
+favourite_bands:
+	John Newman
+	Disclosure
+	Empire of the Sun
+	Childish Gambino
+	Thundamentals
+	Haim
+	Daft Punk
+	Violent Soho
+	Goldroom
+	John Butler Trio
+hair_colour:
+	brown
+name:
+	John Swofford
+email:
+	J.Swofford@ugrad.unsw.edu.au
+birthdate:
+	1948/12/06
+username:
+	AwesomeSurfer30
+courses:
+	2014 S1 COMP9021
+	2014 S1 GSOE9820
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 GSOE9820
+height:
+	1.81m

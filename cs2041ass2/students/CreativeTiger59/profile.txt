@@ -1,0 +1,44 @@
+password:
+	ferrari
+username:
+	CreativeTiger59
+weight:
+	63kg
+hair_colour:
+	brown
+favourite_movies:
+	The Dark Knight Rises
+	Independence Day
+	Dawn of the Planet of the Apes
+	Harry Potter and the Goblet of Fire
+	Fast & Furious 6
+	The Da Vinci Code
+birthdate:
+	1963/05/25
+gender:
+	male
+favourite_books:
+	Shogun
+	Nancy Drew
+	The Diary of a Young Girl, The Diary of Anne Frank
+	The Hobbit
+name:
+	Mike Myers
+favourite_hobbies:
+	Renting Movies
+	Martial arts
+	Field Hockey
+	Going to Movies
+	Lapidary
+	Lego Building
+	Theater
+	Flag Football
+height:
+	1.88m
+favourite_bands:
+	Max Frost
+	Major Lazer
+	Thundamentals
+	The Preatures
+email:
+	M.Myers@ugrad.unsw.edu.au

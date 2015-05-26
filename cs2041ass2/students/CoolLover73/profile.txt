@@ -1,0 +1,61 @@
+password:
+	dennis
+favourite_bands:
+	Max Frost
+	Birds of Tokyo
+weight:
+	85kg
+courses:
+	2012 S1 COMP1927
+	2012 S1 ELEC1111
+	2012 S1 ELEC2134
+	2012 S1 ENGG1000
+	2012 S2 COMP2121
+	2012 S2 COMP2911
+	2012 S2 MATH2099
+	2013 X1 PHYS1221
+	2013 S1 COMP3211
+	2013 S1 COMP3231
+	2013 S1 COMP3441
+	2013 S1 GMAT4900
+	2013 S2 COMP3311
+	2013 S2 COMP3331
+	2013 S2 COMP3601
+	2013 S2 ELEC2133
+	2014 S1 COMP4601
+	2014 S1 COMP9332
+	2014 S1 MATH2069
+	2014 S2 COMP4336
+	2014 S2 COMP4920
+	2014 S2 COMP4931
+	2014 S2 COMP9321
+gender:
+	male
+height:
+	1.77m
+name:
+	Fidel Castro
+birthdate:
+	1926/08/13
+hair_colour:
+	blonde
+favourite_movies:
+	Shrek 2
+	Iron Man 3
+	The Da Vinci Code
+	Les Miserables
+	Pirates of the Caribbean: Dead Man's Chest
+favourite_hobbies:
+	Drama
+	Jogging
+	Mountain biking
+	Family Time
+	Urban exploration
+favourite_TV_shows:
+	How I Met Your Mother
+email:
+	F.Castro@ugrad.unsw.edu.au
+degree:
+	Mechatronic Eng/Biomedical Eng
+username:
+	CoolLover73

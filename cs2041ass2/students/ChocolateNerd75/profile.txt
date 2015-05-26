@@ -1,0 +1,66 @@
+favourite_hobbies:
+	Animal Care
+	Magic
+	Worldbuilding
+	Video gaming
+	Hooping
+	Leather crafting
+degree:
+	Science/Computer Science
+favourite_TV_shows:
+	MASH
+	Suits
+	Heartbreak High
+	Friends
+height:
+	1.81m
+favourite_books:
+	The Da Vinci Code
+	Shannara
+	James Bond
+weight:
+	70kg
+courses:
+	2012 S1 COMP1917
+	2012 S1 ENGG1000
+	2012 S1 MATH1131
+	2012 S1 PHYS1131
+	2012 S2 MATH1231
+	2012 S2 MATS1101
+	2012 S2 MMAN1130
+	2012 S2 MMAN2600
+	2013 S1 MATH2019
+	2013 S1 MATH2089
+	2013 S1 MMAN1300
+	2013 S1 MMAN2700
+	2013 S2 ELEC1111
+	2013 S2 MMAN2300
+	2013 S2 MTRN3100
+	2013 S2 MTRN3500
+	2014 S1 COMP2911
+	2014 S1 MATH1081
+	2014 S1 MMAN2100
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 COMP3511
+	2014 S2 ENGG1400
+username:
+	ChocolateNerd75
+birthdate:
+	1982/01/01
+gender:
+	male
+name:
+	David Nalbandian
+favourite_movies:
+	War of the Worlds
+	The LEGO Movie
+	Bridesmaids
+	Skyfall
+	Harry Potter and the Goblet of Fire
+hair_colour:
+	blonde
+password:
+	donald
+email:
+	D.Nalbandian@ugrad.unsw.edu.au
